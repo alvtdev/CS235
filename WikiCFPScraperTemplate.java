@@ -13,18 +13,21 @@ public class WikiCFPScraperTemplate {
 		try {
 			
 			
-			String category = "data mining";
+			//String category = "data mining";
 			//String category = "databases";
 			//String category = "machine learning";
-			//String category = "artificial intelligence";
+			String category = "artificial intelligence";
 			
-	        int numOfPages = 5;
+	        int numOfPages = 20;
 	        
 	        //create the output file
 	        File file = new File("wikicfp_crawl.txt");
 	        file.createNewFile();
 	        FileWriter writer = new FileWriter(file); 
 	       
+
+	        //first print column titles
+	        writer.write("conference_acronym\tconference_name\tconference_location\n");
 	    
 	        
 	        //now start crawling the all 'numOfPages' pages
@@ -67,17 +70,17 @@ public class WikiCFPScraperTemplate {
                 int itemCount = 0;
 	        	for (int k = 0; k < data.size(); k++){ 
 	        	    if ( k % 6 != 2 && k % 6 != 3 && k % 6 != 5) {
-                        System.out.print(data.elementAt(k));
+                        //System.out.print(data.elementAt(k));
                         writer.write(data.elementAt(k).toString());
                         itemCount++;
                         if (itemCount == 3) {
-                            System.out.print("\n");
+                           // System.out.print("\n");
                             writer.write("\n");
                             itemCount = 0;
                         }
                         else {
                             writer.write("\t");
-                            System.out.print("\t");
+                            //System.out.print("\t");
                         }
                     } 
                 }
