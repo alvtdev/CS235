@@ -1,0 +1,401 @@
+conference_acronym	conference_name	conference_location
+ICSRT--ACM, Ei 2018	2018 International Conference on Service Robotics Technologies (ICSRT 2018)--ACM, Ei Compendex	Chengdu, China
+ICAPM - Scopus, EI 2018	2018 8th International Conference on Applied Physics and Mathematics (ICAPM 2018)--Scopus, EI Compendex and ISI	Phuket Island, Thailand
+ACM - ICMLSC - Ei 2018	ACM--2018 the 2nd International Conference on Machine Learning and Soft Computing (ICMLSC 2018)--Ei Compendex & Scopus	Phuoc Island, Vietnam
+CCSEA 2018	8th International Conference on Computer Science, Engineering and Applications	Melbourne, Australia
+BioS 2017	3rd International Conference on Bioinformatics & Biosciences	Chennai, India
+NIPS IEVDL 2017	NIPS 2017 Workshop: Interpreting, Explaining and Visualizing Deep Learning - Now what ?	Long Beach, CA
+NeTCoM 2017	9th International Conference on Networks & Communications	Dubai, UAE
+ICLR 2018	6th International Conference on Learning Representations	Vancouver, Canada
+ICLR 2018	International Conference on Learning Representations	Vancouver, Canada
+ALT 2018	International Conference on Algorithmic Learning Theory	Lanzarote, Spain
+IJCSITY 2017	International Journal of Computational Science and Information Technology	N/A
+MECHATROJ 2017	Mechatronics and Applications: An International Journal	N/A
+DRIJ 2017	Dental Research: An International Journal	N/A
+IJHAS 2017	International Journal of Humanities, Art and Social Studies	N/A
+NLP 2018	7th International Conference on Natural Language Processing	Dubai, UAE
+Ei - ICSCA - ACM 2018	ACM--2018 7th International Conference on Software and Computer Applications (ICSCA 2018)--Ei Compendex, Scopus and ISI	Kuantan, Malaysia
+ICRAE - IEEE 2017	IEEE--2017 2nd International Conference on Robotics and Automation Engineering (ICRAE 2017) - IEEE Xplore and Ei Compendex	Shanghai, China
+NIPS DISCML 2017	NIPS 2017 Workshop on Discrete Structures in Machine Learning (DISCML)	Long Beach
+NIPS ML4H 2017	NIPS Workshop on Machine Learning for Health	Long Beach, CA
+ICMRE - Ei & Scopus 2018	2018 4th International Conference on Mechatronics and Robotics Engineering (ICMRE 2018)--Ei Compendex & Scopus	Valenciennes, France
+PAKDD 2018	The 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining	Melbourne, Australia
+NIPS-CAI 2017	Conversational AI: “Today's Practice and Tomorrow's Potential”	Long Beach, California
+IWSON 2018	International Workshop on Self-Organizing Networks (IWSON) @ WCNC	Barcelona, Spain
+INNS-BDDL 2018	The 3rd INNS Conference on Big Data and Deep Learning 2018	Bali, Indonesia
+MLAIJ 2017	Machine Learning and Applications: An International Journal	N/A
+ICCAI 2018--ACM, Ei, Scopus 2018	ACM--2018 International Conference on Computing and Artificial Intelligence (ICCAI 2018)--Ei Compendex and Scopus	Chengdu, China
+ASC 2018	The 2nd International Workshop on Affective and Sentimental Computing	Shanghai, China
+KALSIMIS 2018	Knowledge Acquisition and Learning in Semantic Interpretation of Medical Image Structures	Funchal, Madeira
+Ei - ICVARS 2018	2018 2nd International Conference on Virtual and Augmented Reality Simulations (ICVARS 2018)--Ei & Scopus	Brisbane, Australia
+ACM - ICMLC 2018	2018 10th International Conference on Machine Learning and Computing (ICMLC 2018)--ACM, Ei Compendex and Scopus	Macau, China
+ICIIT - Ei & Scopus 2018	2018 International Conference on Intelligent Information Technology (ICIIT 2018)--Ei Compendex, Scopus and ISI	Hanoi, Vietnam
+EmotionAware 2018	2nd International Workshop on Emotion Awareness for Pervasive Computing with Mobile and Wearable Devices	Athens
+KBCOM 2018	1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM) 2018	Los Angeles, California
+ICPRAI 2018	International Conference on Pattern Recognition and Artificial Intelligence	Montreal, Quebec
+ACM - ICIAI 2018	ACM--2018 2nd International Conference on Innovation in Artificial Intelligence (ICIAI 2018)--Ei Compendex, Scopus, and ISI	Shanghai, China
+CVPR 2018	Computer Vision and Pattern Recognition	SALT LAKE CITY, UTAH
+BOCIA 2018	International Workshop on Benchmarking of Computational Intelligence Algorithms	Xiamen, China
+NAHO 2017	Workshop on Non-conventional Approaches to Hard Optimization (NAHO)	Irvine, CA
+AIHealth@FLAIRS 2018	FLAIRS 2018 Special Track on Artificial Intelligence in Healthcare Informatics	Melbourne, FL, USA
+Emerging trends in ML@ESANN 2018	Special Session - Emerging trends in machine learning: beyond conventional methods and data	Bruges (Belgium)
+Randomized Neural Networks - ESANN 2018	Randomized Neural Networks - Special Session @ ESANN 2018	Bruges, Belgium
+MIS2 @ WSDM 2018	Misinformation and Misbehavior Mining on the Web workshop	Los Angeles
+ISMSI--Ei, Scopus and ISI 2018	2018 2nd International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (ISMSI 2018)--Ei Compendex, Scopus and ISI	Phuket, Thailand
+ICAISC 2018	International Conference on Artificial Intelligence and Soft Computing	Zakopane, POLAND
+EI--CMVIT 2018	2018 2nd International Conference on Machine Vision and Information Technology (CMVIT 2018)	Hong Kong
+RDA 2018	2018 Internationl Conference on Robotics: Design and Applications (RDA 2018)	Osaka,Japan
+IEMIS 2018	1ST INTERNATIONAL CONFERENCE ON EMERGING TECHNOLOGIES IN DATA MINING AND INFORMATION SECURITY	Kolkata
+NIC 2018	Workshop on Nature Inspired Computing	Naples, Italy
+VSI: DL-Fusion 2018	Special issue On “Deep Learning for Information Fusion” - Information Fusion (Elsevier)	N/A
+ICMAI--EI and Scopus 2018	2018 International Conference on Mathematics and Artificial Intelligence (ICMAI 2018)--EI Compendex and Scopus	Chengdu, China
+RCMKRL 2018	IEEE Access“Recent Computational Methods in Knowledge Engineering and Intelligence Computation”	N/A
+RCMKEIC 2017	Special Sections“Recent Computational Methods in Knowledge Engineering and Intelligence Computation”	N/A
+SI-Telemecine JNCA 2018	Special Issue on Emerging Networked Computer Applications for Telemedicine, JNCA Journal (IF 3.500), Elsevier	N/A
+NAACL HLT 2018	The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies	New Orleans, Louisiana
+ACM--ICDEL--Ei Compendex 2018	2018 International Conference on Distance Education and Learning (ICDEL 2018)--ACM, Ei Compendex	Beijing, China
+DLS 2018	1st Deep Learning and Security Workshop	San Francisco, CA
+IEEE CIM SI 2018	IEEE Computational Intelligence Magazine. Special Issue on Computational Intelligence in Finance and Economics	N/A
+LOPAL 2018	International Conference on Learning and Optimization Algorithms: Theory and Applications	Rabat, Morocco
+ICMVA--EI Compendex, Scopus 2018	2018 The International Conference on Machine Vision and Applications (ICMVA 2018)--EI Compendex, Scopus	Singapore
+ICPR 2018	24th International Conference on Pattern Recognition	Beijing, China
+ParLearning 2018	The 7th International Workshop on Parallel and Distributed Computing for Large Scale Machine Learning and Big Data Analytics	Vancouver, Canada
+DSA 2018	The Frontiers in Intelligent Data and Signal Analysis DSA 2018	New York
+MLDM 2018	14th International Conference on Machine Learning and Data Mining MLDM 2018	New York
+JEI IVADR 2018	Journal of Electronic Imaging Special Issue on Image and Video Analysis, Detection, and Recognition	N/A
+ICMLT--Ei and Scopus 2018	2018 International Conference on Machine Learning Technologies (ICMLT 2018)--Ei Compendex and Scopus	Jinan, China
+IWPR--SPIE, Ei Compendex, Scopus 2018	SPIE--2018 the 3rd International Workshop on Pattern Recognition (IWPR 2018)--Ei, Scopus and ISI	Jinan, China
+GECCO 2018	Genetic and Evolutionary Computation Conference	Kyoto, Japan
+QUALICO 2018	QUALICO 2018 - International Quantitative Linguistics Conference	Wroclaw, Poland
+EDC 2018	13th Annual Education and Development Conference	Bangkok, Thailand
+SPIC: Tensor Image Prococessing 2018	Signal Processing: Image Communication: Special Issue on Tensor Image Processing	N/A
+COLT 2018	Conference on Learning Theory	Stockholm, Sweden
+COLT 2018	Computational Learning Theory	Stockholm, Sweden
+ECCV 2018	European Conference on Computer Vision	Munich, Germany
+RO-MAN 2018	27th IEEE International Conference on Robot and Human Interactive Communication	Nanjing and Tai’an, China
+SPECOM 2018	20th International Conference on Speech and Computer	Leipzig, Germany
+CST 2018	5th International Conference on Foundations of Computer Science & Technology	Dubai, UAE
+SDM 2018	SIAM International Conference on Data Mining	San Diego, USA
+AISTATS 2018	The 21st International Conference on Artificial Intelligence and Statistics	Playa Blanca, Lanzarote
+ITNG 2018	15th International Conference on Information Technology- New Generations	Las Vegas
+2nd BDTL Workshop 2017	2nd International Workshop on Big Data Transfer Learning in conjunction with IEEE BigData Conference 2017	Boston MA, USA
+DRCN 2018	14th International Conference on the Design of Reliable Communication Networks (DRCN 2018)	Orange Gardens, Paris area, France
+DRCN 2018	Design of Reliable Communication Networks	Orange Gardens, Paris area, France
+FAT* 2018	2018 Conference on Fairness, Accountability, and Transparency	New York City, USA
+ACM--ICMCE 2017	ACM--2017 6th International Conference on Mechatronics and Control Engineering (ICMCE 2017)--Ei Compendex, ISI Web of Science and Scopus	St. Petersburg, Russia
+ACMLC--EI Compendex, Scopus 2017	2017 Asia Conference on Machine Learning and Computing (ACMLC 2017)--EI Compendex, Scopus	Singapore
+Biometrics PAD 2017	Handbook of Biometric Anti-Spoofing (2nd Edition)	Springer
+IREHI 2017	International Rural and Elderly Health Informatics PhD Symposium	Lomé/Togo (West-Africa)
+IREHI 2017	International Rural and Elderly Health Informatics Tutorial Proposals	Lomé/Togo (West-Africa)
+IEEE-SITIS2017: MIRA 2017	Multimedia Information Retrieval and Applications	Jaipur, India
+SI-SoftMM 2017	Special Issue on Soft Computing Techniques and Applications on MM Data Analyzing Systems-- Springer Journal of Multimedia Tools and Applications	N/A
+ISCMI - IEEE 2017	2017 4th Intl. Conference on Soft Computing & Machine Intelligence (ISCMI 2017)--IEEE Xplore, Ei Compendex	Republic of Mauritius
+IALP 2017	The 21th International Conference on Asian Language Processing	Singapore
+HFR 2017	10th International Workshop on Human-Friendy Robotics (Springer SPAR Proceedings)	Napoli, Italy
+ACM SAC-RS 2018	ACM SIGAPP Symposium On Applied Computing 2018 - Track on Recommender Systems: Theory, User Interactions and Applications	Pau, France
+ICMV 2017	2017 The 10th International Conference on Machine Vision (ICMV 2017) - SPIE	Vienna, Austria
+MMM 2018	The 24th International Conference on MultiMedia Modeling	Bangkok, Thailand
+SI BWild 2017	Image and Vision Computing (IVC) Special Issue on Biometrics in the Wild	Europe
+JISIC 2017	VIII Jornadas de Ingeniería de Sistemas Informáticos y de Computación -JISIC 2017	Campus politécnico José Rubén Orellana
+PRASA-RobMech 2017	Symposium of the Pattern Recognition Association of South Africa (PRASA) and Conference of Robotics and Mechatronics (RobMech)	Central University of Technology, RSA
+TAAI 2017	The 22nd Conference on Technologies and Applications of Artificial Intelligence [Deadline Extended]	Taipei, Taiwan
+AMLTA 2018	the 3rd International Conference on Advanced Machine Learning Technologies and Applications;	Cairo, egypt
+DMIP 2017	The 1st ICDM Workshop on Data Mining in Practice: Automation and Cost	New Orleans (USA)
+DDGD 2017	First Interantional Workshop on Data-Driven Gamification Design	Tampere, Finland
+MLHPC 2017	MLHPC '17 : Machine Learning in High Performance Computing Environments Workshop	Denver, CO
+IEEE icSoftComp 2017	2017 International Conference on Soft Computing and its Engineering Applications	Changa, Anand, India
+SHEIQL-2017	[GOODTECH-CONFERENCE] Special session: Smart Home and E-Health to improve the Quality of Life	Pisa
+MLPMEA 2017	Special Session On Machine Learning for Predictive Models in Engineering Applications, ICMLA 2017	Cancun, Mexico
+ICCMA - Ei 2017	2017 The 5th International conference on Control, Mechatronics and Automation (ICCMA 2017)--Ei Compendex and Scopus	University of Alberta, Edmonton, Canada
+.IML 2017	.International Conference on Internet of Things and Machine Learning	Liverpool, United Kingdom
+ICMAM - Ei 2017	2017 4th International Conference on Mechatronics, Automation and Manufacturing (ICMAM 2017)--EI Compendex, Scopus	Phuket, Thailand
+BigDF 2017	IEEE International Workshop on Foundations of Big Data Computing	Jaipur, India
+ICMMM - EI 2017	2017 4th International Conference on Mechanical, Materials and Manufacturing (ICMMM 2017)--Ei Compendex, CPCI and Scopus	Atlanta, USA
+DSHCM 2017	Final Call for Papers - The 1st International Workshop on Data Science for Human Capital Management (collocated with IEEE ICDM'17)	New Orleans, LA, USA
+MIKE 2017	Mining Intelligence and Knowledge Exploration, The Fifth International Conference	IDRBT, Hyderabad, India
+ICCBB - Ei 2017	2017 International Conference on Computational Biology and Bioinformatics (ICCBB 2017)--Ei Compendex, Scopus and CPCI	New Jersey, USA
+IREHI 2017	International Rural and Elderly Health Informatics Conference	Lomé
+IS 2017	International Conference “Interactive Systems: Problems of Human-Computer Interaction”	Ulyanovsk, Russia
+MECN 2017	3rd International Conference on Mechanical Engineering	Dubai, UAE
+SoDeLIA 2017	Special Session on Deep Learning and Its Applications	Brunei
+HighStream@ICDM 2017	1st High-Performance Data Stream Mining Workshop at International Conference on Data Mining (ICDM'2017)	New Orleans, USA
+HighStream@ICDM 2017	1st High-Performance Data Stream Mining Workshop at International Conference on Data Mining (ICDM'2017)	New Orleans, USA
+ACML 2017	The 9th Asian Conference on Machine Learning	Seoul, Korea
+ACML 2017	The 9th Asian Conference on Machine Learning	Seoul, Korea
+ICICT 2017	CFP - The IEEE International Conference ICICT at India, Due: 4 Aug 2017	India
+FICC 2018	The FICC 2018 at Singapore, Paper Submission Due: August 1st 2017	Singapore
+HPGDML 2017	High Performance Graph Data Mining and Machine Learning Workshop	New Orleans, USA
+ICPRAM 2018	7th International Conference on Pattern Recognition Applications and Methods	Funchal, Madeira, Portugal
+VISAPP 2018	International Conference on Computer Vision Theory and Applications	Funchal, Madeira, Portugal
+BAFI 2018	Business Analytics in Finance and Industry	Santiago, Chile
+SCDS 2017	3rd International Conference on Soft Computing in Data Science	Yogyakarta, Indonesia
+EEML 2017	Fourth International Workshop on Experimental Economics and Machine Learning	Dresden
+K-CAP 2017	The Ninth International Conference on Knowledge Capture	Austin, Texas, USA
+DARE 2017	ECML PKDD 2017, 5th International Workshop on Data Analytics for Renewable Energy Integration	Skopje, Macedonia
+MVR3D 2017	ICCV Workshop on Multiview Relationships in 3D Data	Venice
+ADMA 2017	The 13th International Conference on Advanced Data Mining and Applications	Singapore
+GCAI 2017	The 3rd Global Conference on Artificial Intelligence (GCAI 2017), Miami, USA, 18-22 October 2017	Miami, USA
+ICRCA - Ei 2017	2017 The 2nd International Conference on Robotics, Control and Automation (ICRCA 2017)--Ei Compendex and Scopus	Kitakyushu, Japan
+AutoML 2017	Automatic Machine Learning Workshop (ICML 2017)	Sydney, Australia
+SenSys Workshop - XtremeSys 2017	The First ACM International Workshop on Wireless Sensing Systems for Extreme Conditions	Delft, The Netherlands
+IEEE SSCI 2017	2017 IEEE Symposium Series on Computational Intelligence	Honolulu, Hawaii, USA
+SI: COMPUTERS & OR 2017	Special issue on DATA ANALYTICS and OPTIMIZATION at COMPUTERS & OPERATIONS RESEARCH (Elsevier)	N/A
+KDD 2017	Networking with Experts - Call for Proposals	Halifax, Nova Scotia
+Workshop on Massive Dataflow Analysis 2017	In conjunction The 14th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA 2017)	Hammamet, Tunisia
+ICRMV - Ei 2017	2017 The 2nd International Conference on Robotics and Machine Vision (ICRMV 2017)--Ei Compendex and Scopus	Kitakyushu, Japan
+MIWAI 2017	The 11th Multi-disciplinary International Workshop on Artificial Intelligence	Brunei
+IPTA 2017	International Conference on Image Processing Theory, Tools and Applications	Montreal,Canada
+LIDTA 2017	1st International Workshop on Learning with Imbalanced Domains: Theory and Applications	Skopje, Macedonia
+PAPIs 2017	4th International Conference on Predictive Applications and APIs	Boston
+ICCV 2017 - CoViStories 2017	ICCV 2017 - CoViStories: Workshop on Collaborative Visual Stories	Venice, Italy
+ICMLA 2017	16th IEEE International Conference On Machine Learning And Applications	CANCUN, MEXICO
+SoGood 2017	2nd Workshop on Data Science for Social Good @ ECML PKDD	Skopje, Macedonia
+MLSA 2017	Machine Learning and Data Mining for Sports Analytics (Workshop @ ECML/PKDD 2017)	Skopje
+NLPCC 2017	The Sixth Conference on Natural Language Processing and Chinese Computing (NLPCC 2017)	Dalian, China
+Drone Surveillance 2017	IEEE Communications Magazine Feature Topic on Amateur Drone Surveillance: Applications, Architectures, Enabling Technologies, and Public Safety Issues	N/A
+ICIS 2017	The Second International Conference on Intelligence Science	Shanghai, China
+IDEAL 2017	18th International Conference on Intelligent Data Engineering and Automated Learning	Guilin, China
+ICACCP 2017	IEEE International Conference on Advanced Computational and Communication Paradigms	Gangtok, Sikkim, India
+DMBD 2017	DMBD'2017：Call for Papers (Jan. 30, 2017)	Fukuoka, Japan
+AIAAT 2017	2017 International Conference on Artificial Intelligence Applications and Technologies(AIAAT 2017)	Hawaii, USA
+ASRU 2017	IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)	Okinawa, Japan
+CIPI 2017	International Conference on Information Processing	Cuba
+RecSysKTL 2017	Workshop on Intelligent Recommender Systems by Knowledge Transfer and Learning	Como, Italy
+SAMI4.0 2017	2nd International Workshop on Science, Application and Methods in Industry 4.0	Graz, Austria
+AMBN 2017	Advanced Methodologies for Bayesian Networks	Kyoto
+KDD 2017	KDD 2017 Startup Travel Awards - Final Call for Applications	Halifax, Nova Scotia
+IWBIS 2017	2017 International Workshop on Big Data and Information Security	Jakarta
+CyberC 2017	International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery	Nanjing
+EGR 2017	Call for Proposals: LinkedIn Economic Graph Research	N/A
+Big Data 2017	The 5th International Workshop on Big Data	Nanjing
+ICACSIS 2017	9th International Conference on Advanced Computer Science and Information Systems	Bali
+MLMI 2017	8th International Workshop on Machine Learning in Medical Imaging (MLMI 2017)	Quebec City, Quebec, Canada
+LABELS 2017	Large-scale Annotation of Biomedical data and Expert Label Synthesis	Quebec, Canada
+GRAIL 2017	1st International Workshop on Graphs in Biomedical Image Analysis	Quebec City
+ICONIP 2017	International Conference on Neural Information Processing	Guangzhou, China
+ICDEPI 2017	2017 International Conference on Design Engineering and Product Innovation (ICDEPI 2017)	Nanyang Technological University
+WISDOM 2017	6th KDD Workshop on Issues of Sentiment Discovery and Opinion Mining	Halifax, Nova Scotia, Canada
+DSAA 2017	The 4th IEEE International Conference on Data Science and Advanced Analytics 2017	Tokyo, Japan
+DS 2017	The 20th International Conference on Discovery Science	Kyoto, Japan
+LL@ICML 2017	Workshop on Lifelong Learning: A Reinforcement Learning Approach @ICML 2017	Sydney, Australia
+ISIS 2017	The 18th International Symposium on Advanced Intelligent Systems (ISIS2017)	Daegu, South Korea
+ICCAC DS 2017	International Conference on Cloud and Autonomic Computing (ICCAC) Doctoral Symposium	Tucson, AZ
+IJISP-SI 2017	Special Issue in IJISP: Machine learning techniques for Information Security and Data Privacy	Changa, Anand, India
+CD-MAKE 2017	IFIP Cross Domain Conference for Machine Learning & Knowledge Extraction	Reggio di Calabria
+7th ICITCS 2017	iCatse International Conference on IT Convergence and Security	Seoul Korea
+CCIS 2017	The 2nd International Conference on Cognition Computing and Intelligent System	Hangzhou China
+WAAE 2017	IJCAI-17 Workshop on AI Applications in E-Commerce	Melbourne, Australia
+SBDS 2017	Research Summer School in Statistics & BigData Science (SBDS)	Caen, France
+MLSP 2017	IEEE International Workshop on Machine Learning for Signal Processing	Roppongi, Tokyo, Japan
+KDD MiLeTS Workshop 2017	SIGKDD Workshop on Mining and Learning from Time Series (MiLeTS 2017)	Halifax, Nova Scotia, Canada
+ML4Creativity 2017	SIGKDD 2017 Workshop on Machine Learning for Creativity	Halifax, Nova Scotia, Canada
+Fashion-ML-KDD 2017	Machine Learning Meets Fashion	Halifax, Nova Scotia - Canada
+SML 2017	IJCAI Workshop on Semantic Machine Learning (SML 2017)	Melbourne, Australia
+CD 2017	The 2017 ACM SIGKDD Workshop on Causal Discovery	Halifax, Nova Scotia, Canada
+EvoNets@DSAA 2017	Special Session on on Evolving Networks - DSAA'2017	Tokyo, Japan
+BIOKDD 2017	International Workshop on Data Mining in Bioinformatics (BIOKDD'17)	Halifax, Canada
+KDD ADF 2017	KDD 2017 Workshop on Anomaly Detection in Finance	Halifax, Nova Scotia
+DIM 2017	Extended: The Six IEEE International Workshop on Data Integration and Mining	San Diego, USA
+INIT/AERFAISummerSchoolML 2017	INIT/AERFAI Summer School on Machine Learning	Benicàssim (Spain)
+NIPS 2017	The Thirty-first Annual Conference on Neural Information Processing Systems	Long Beach, CA, USA
+VS3 2017	Vision and Sports Summer School 2017	Prague
+Infitt-TIC 2017	Infitt's 16th World Tamil Internet Conference	Toronto
+COMLACO 2017	Computational methods for measuring language complexity	Melbourne
+GlobalSIP 2017	2017 5th IEEE Global Conference on Signal and Information Processing	Montreal, Canada
+AIAP 2017	4th International Conference on Artificial Intelligence and Applications	Vienna, Austria
+NWCOM 2017	3rd International Conference on Networks & Communications	Dubai, UAE
+MECH 2017	4th International Conference on Mechanical Engineering	Vienna, Austria
+KDD 2017	CALL FOR 2017 ACM SIGKDD INNOVATION AND SERVICE AWARDS NOMINATIONS	Halifax, Nova Scotia, Canada
+ICCST 2017	The 51st International Carnahan Conference on Security Technology	Madrid
+KDH@IJCAI 2017	The 2nd International Workshop on Knowledge Discovery in Healthcare Data (KDH) - aligning with IJCAI 2017	Melbourne, Australia
+BOOM 2017	2nd IJCAI International Workshop on Biomedical infOrmatics with Optimization and Machine learning (BOOM)	Melbourne, Australia
+ILP 2017	Inductive Logic Programming conference	Orléans - France
+WOSP 2017	6th International Workshop on Mining Scientific Publications	Toronto, Ontario, Canada
+AIM@EPIA 2017	Artificial Intelligence in Medicine	Porto, Portugal
+AICPDES 2017	Artificial Intelligence in Cyber-Physical and Distributed Embedded Systems - Track in the 18th EPIA Conference on Artificial Intelligence	Porto, Portugal
+KDD 2017	ACM SIGKDD TEST-OF-TIME PAPER AWARDS - CALL FOR NOMINATION	Halifax, Nova Scotia, Canada
+BI 2017	The 2017 International Conference on Brain Informatics	Beijing, China
+BASC 2017	International Workshop on Big Data Applications for Smart Cities	San Francisco, CA, USA
+KDD 2017	2017 SIGKDD Doctoral Dissertation Award	Halifax, Nova Scotia, Canada
+DSCI 2017	CFP deadline Apr 28 23:59 GMT, Data Science and Computational Intelligence@San Francisco, USA	San Francisco
+AGI 2017	Artificial General Intelligence	Melbourne, Australia
+PCNN 2017	International Workshop on Parallel Computations for Neural Networks	Genoa, Italy
+NTIRE 2017	CVPR 2017- New Trends in Image Restoration and Enhancement workshop and challenge on image super-resolution	Honolulu, Hawaii
+BioASQ 2017	A challenge on large-scale biomedical semantic indexing and question answering	Part of BioNLP 2017 (Vancouver, Canada)
+VOCVLC/CVPR 2017	International Workshop on Visual Odometry and Computer Vision Applications Based on Location Clues	Hawaii
+ECML-PKDD 2017	European Conference on Machine Learning and Principles and Practice of Knowledge Discovery	Skopje, Macedonia
+PACLING 2017	Conference of the Pacific Association for Computational Linguistics	Yangon, Myanmar
+Canadian AI Industry Track 2017	AI in industry, challenges in real life products	Lister Centre, University of Alberta, Ed
+Embedded/Mobile DL Wkshp 2017	1st International Workshop on Embedded and Mobile Deep Learning (co-located with ACM MobiSys 2017)	NIAGARA FALLS, NY USA
+NLG4DS 2017	Natural Language Generation for Dialogue Systems: SIGDIAL 2017 Special Session	Saarbrücken, Germany
+Cognitive Computing Applications, IECON 2017	Cognitive Computing Applications in Industrial Electronics	Beijing, China
+TIR 2017	Workshop on Technologies for Information Retrieval	Lyon, France
+ICCAIRO 2017	International Symposium on Hybrid Intelligent Techniques for Information and Image Retrieval	Prague, Czech Republic
+IWMIL 2017	The 1st International Workshop on Machine Intelligence and Learning	Milan, Italy
+EMNLP 2017	Empirical Methods in Natural Language Processing	Copenhagen, Denmark
+IEEE ICTS4eHealth 2017	IEEE Workshop on ICT Solutions for eHealth	Heraklion, Crete, Greece
+ICCIDS 2017	IEEE International Conference on Computational Intelligence in Data Science	Chennai
+IEEE ISI 2017	2017 IEEE International Conference on Intelligence and Security Informatics	Beijing, China
+SwissText 2017	Swiss Text Analytics Conference 2017	Winterthur - Switzerland
+PReMI 2017	Seventh International Conference on Pattern Recognition and Machine Intelligence	Kolkata, India
+ICANN 2017	International Conference on Artificial Neural Networks 2017	Alghero, Sardinia, Italy
+AI 2017	30th Australasian Joint Conference on Artificial Intelligence	Melbourne, Australia
+IJMLC ASC SI 2017	Special issues on Affective and Sentimental Computing in International Journal of Machine Learning and Cybernetics (Deadline Extended to April 1st, 2017)	N/A
+PAML 2017	Privacy Aware Machine Learning	Reggio di Calabria
+MALHE 2017	Machine Learning for Health Informatics	Reggio di Calabria
+We RISE 2017	We RISE Women in Tech Conference	Atlanta, GA, US
+S3P 2017	IEEE-EURASIP Summer School on Signal Processing - Signal Processing meets Deep Learning	Capri (Italy)
+SMMA 2017	CFP Deadline Mar 31st: Social Media Mining and Analysis 2017 @Great Britain	Exeter, England
+TecnoLógicas 2017	Call for papers in computational techniques and applications	N/A
+WICA 2017	Workshop on Industrial Computational Applications	Trieste, Italy
+MOD 2017	3rd International Conference on Machine learning, Optimization & big Data - An Interdisciplinary Conference: Machine Learning, Optimization and Data Science without Borders	Volterra (Pisa) Tuscany
+AISI 2017	The 3rd International Conference on Advanced Intelligent Systems and Informatics	Cairo, Egypt
+SDAM 2017	Special Session on Smart Data and Data Analytics for Automation and Manufacturing Systems at IEEE 15th Conference on Industrial Inforamtics INDIN'2017	Emden, Germany
+SAEOpt 2017	Workshop on Surrogate-Assisted Evolutionary Optimisation (SAEOpt 2017)	Berlin, Germany
+DADE 2017	Special Session on Deployment Areas of Dynamic Environments	Gdynia, Poland
+Smart X 2017	The 2017 International Conference on Smart X	Guangzhou
+MUME 2017	The 5th International Workshop on Musical Metacreation	Atlanta, USA
+PBVS 2017	13th IEEE Workshop on Perception Beyond the Visible Spectrum - In conjunction with CVPR 2017	Honolulu, Hawaii
+IEEE-ICMSC 2017	IEEE--2017 International Conference on Mechanical, System and Control Engineering (ICMSC 2017)-Ei, Scopus	St. Petersburg, Russia
+ICCIDE 2017	International Conference on Computational Intelligence & Data Engineering	Vijayawada, India
+PACMA 2017	Physiological and Affective Computing: Methods and Applications	Trieste, Italy
+Biometrics - TSP 2017	1st International Workshop on Recent Advances in Biometrics and its Applications | 2017 40th Int. Conference on Telecommunications and Signal Processing (TSP) | IEEE Xplore®	Barcelona, Spain
+ACM-BCB 2017	8th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics - Call for Tutorials	Boston, MA
+BigDAW 2017	International Workshop on Big Data Analytics	Siena, Italy
+MAICS 2017	The 28th Modern Artificial Intelligence and Cognitive Science Conference	Fort Wayne, IN
+TBD 2017	IEEE Transactions on Big Data Special Issue on Biomedical Big Data: Understanding, Learning and Applications	N/A
+IoTAAL 2017	3rd IEEE International Workshop on Internet of Things for Active and Assisted Living (IoTAAL)	Geneva, Switzerland
+RABiD 2017	Call for Papers for 1st International Workshop on Recent Advances in Biomedical Data Analysis	Olsztyn, Poland
+ICML 2017	34th International Conference on Machine Learning	Sydney, Australia
+KDD 2017	Call for Workshop Proposals	Halifax, Nova Scotia, Canada
+KDD 2017	Call for Tutorials	Halifax, Nova Scotia, Canada
+ICRACA 2017	International Conference On Recent Advances in Computing and Applications	Pune India
+IEEE-ICCAR 2017	2017 3rd IEEE International Conference on Control, Automation and Robotics (ICCAR 2017) - IEEE Xplore and Ei Compendex	Nagoya, Japan
+IJCAI 2017	International Joint Conference on Artificial Intelligence	Melbourne, Australia
+COLT 2017	Computational Learning Theory	Amsterdam, Netherlands
+KDD 2017	Call for Research Papers	Halifax, Nova Scotia, Canada
+KDD 2017	Call for Applied Data Science Papers	Halifax, Nova Scotia, Canada
+ICBEA--Ei 2017	2017 International Conference on Biometrics Engineering and Application (ICBEA 2017)--Ei Compendex and Scopus	Hong Kong
+CVIU 2017	Special Issue on Vision and Computational Photography and Graphics	N/A
+NLDB 2017	22nd International Conference on Natural Language & Information Systems	University of Liège, Liège, Belgium
+ISMIS 2017	23rd International Symposium on Methodologies for Intelligent Systems	Warsaw, Poland
+GECCO 2017	Genetic and Evolutionary Computation Conference	Berlin, Germany
+CogArch 2017	The 3rd Workshop on Cognitive Architectures at ASPLOS 2017	Xi'an, China
+CST 2017	Fourth International Conference on Foundations of Computer Science & Technology	Sydney, Australia
+HFR 2017	IEEE FG International Workshop on Heterogeneous Face Recognition (HFR)	Washington DC, USA
+MLRec 2017	MLRec 2017 : 3rd International Workshop on Machine Learning Methods for Recommender Systems	Houston, TX
+SCIA 2017	SCIA 2017, the Scandinavian Conference on Image Analysis	Tromsø, Norway
+AIMSA Bangalore 2017	AI, Machine Learning and Sentiment Analysis Applied to Financial Markets and Consumer Markets	Bangalore India
+Neurocomputing Special Issue LSMV 2017	Learning System in Real-time Machine Vision (SI: Learning Vision)	N/A
+Call for book chapters ASCMLIP 2017	Advances in Soft Computing and Machine Learning in Image Processing (Springer)	N/A
+ICMR 2017	ACM International Conference on Multimedia Retrieval	Bucharest, Romania
+EASL 2017	EACL 2017 Workshop on Symbolic and Deep Learning Approaches to the Analysis of Evaluative, Affective, and Subjective Language (EASL 2017)	Valencia, Spain
+SS-MLID-IWANN 2017	Special Session on Machine Learning in Imbalanced Domains, IWANN2017, LNCS, Cadiz (Spain), June 2017	Cadiz (Spain)
+SS-MLRE-IWANN 2017	Special Session on Machine learning for renewable energy applications (IWANN'2017), Cadiz (Spain), June 2017	Cadiz (Spain)
+MOCO 2017	International Conference on Movement and Computing (MOCO 2017)	28-30th June, London UK
+ISMIS 2017 DM Competition 2017	ISMIS 2017 Data Mining Competition	Online
+BDASD 2017	Special Session on Big Data Analytics and Stream Data Mining	Warsaw, Poland
+ICAISC 2017	International Conference on Artificial Intelligence and Soft Computing	Zakopane, Poland
+ParLearning 2017	The 6th International Workshop on Parallel and Distributed Computing for Large Scale Machine Learning and Big Data Analytics	Orlando, Florida, USA
+CORES 2017	10th International Conference on Computer Recognition Systems	Polanica Zdroj, Poland
+CCML 2017	The 16th China Conference on Machine Learning	Tianjin China
+MLDM 2017	Machine Learning and Data Mining in Pattern Recognition	New York, USA
+SIPRO 2017	Third International Conference on Signal and Image Processing (SIPRO 2017)	Dubai,UAE
+SoMePeAS 2017	ECIR 2017 Workshop on “Social Media for Personalization And Search”	Aberdeen, Scotland (UK)
+iDSC 2017	1st International Data Science Conference	Salzburg, Austria
+IWSPA 2017	3rd International Workshop on Security and Privacy Analytics	Scottsdale, AZ
+MaLTeSQuE 2017	Machine Learning Techniques for Software Quality Evaluation	Klagenfurt
+JWS-SS 2016	Journal of Web Semantics special issue on Semantic Statistics	N/A
+IEA/AIE NAAD 2017	Special Track on Novel Approaches to Anomaly Detection	Arras, France
+SmartMedDev 2017	Special Session on Smart Medical Devices - From Lab to Clinical Practice - SmartMedDev 2017	Porto, Portugal
+ESWC 2017	14th Extended Semantic Web Conference	Portoroz, Slovenia
+KALSIMIS 2017	Knowledge Acquisition and Learning in Semantic Interpretation of Medical Image Structures	Porto
+SWJ - KB generation & population 2016	Semantic Web Journal - Special Issue on Machine Learning for Knowledge Base Generation and Population	N/A
+TFML 2017	Conference on Theoretical Foundations of Machine Learning 2017	Cracow, Poland
+KDD Cup 2017	Call for Proposals	Halifax, Nova Scotia
+KDD Cup 2017	Call for Proposals	Halifax, Nova Scotia, Canada
+WSDM Cup 2017	WSDM Cup 2017: Knowledge Base Quality and Search	Cambridge
+IJCNN SS on Audio Applications 2017	IJCNN 2017 Special Session on Computational Intelligence Algorithms for Digital Audio Applications	Anchorage
+Big Data Analytics@IJCNN 2017	[Deadline Extended] Special Session: 'Large Datasets and Big Data Analytics: Theory, Methods, and Applications' at IJCNN 2017	Anchorage, Alaska, USA
+SI: CAfBMD 2016	Springer Multimedia Tools and Applications Special Issue on Content Analysis for Big Multimedia Data	N/A
+BigData-FAB 2016	Special Issue on “Big Data and Machine Learning in Finance, Accounting and Business” in Electronic Commerce Research (Springer)	N/A
+ASC 2017	The International Workshop on Affective and Sentimental Computing	Jeju Island, Korean
+Randomized ML @ ESANN 2017	Randomized Machine Learning approaches: analysis and developments	Bruges, Belgium
+ICSCE 2017	International Conference on Soft Computing in Engineering	Jaipur, India
+EACL SRW 2017	EACL 2017 Student Research Workshop	Valencia
+CBR@FLAIRS 2017	FLAIRS-30 Special Track on Case-Based Reasoning	Marco Island
+FLAIRS 2017	FLAIRS-30: Special Track in Data Mining	Marco Island, Florida
+RecSys@FLAIRS 2017	Recommender Systems Special Track at the International FLAIRS Conference	Marco Island
+ESANN 2017	25th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning	Bruges, Belgium
+IJCNN 2017	International Joint Conference on Neural Networks	Anchorage, Alaska
+IJKDB Special issue 2017	International Journal of Knowledge Discovery in Bioinformatics - Special Issue	N/A
+EvoMUSART 2017	6th International Conference on Computational Intelligence in Music, Sound, Art and Design	Amsterdam
+NIPS: Workshop on Action & Interaction 2016	NIPS 2016 Workshop on Action and Interaction	Barcelona, Spain
+ICLR 2017	5th International Conference on Learning Representations	Palais des Congrès Neptune, Toulon, Fr
+CML 2016	Constructive Machine Learning	Barcelona, Spain
+EuroGP 2017	20th European Conference on Genetic Programming	Amsterdam
+PAKDD 2017	The 21st Pacific-Asia Conference on Knowledge Discovery and Data Mining	Jeju Island, Korea
+NIPS ML4HC 2016	Machine Learning for Health @ NIPS 2016	Barcelona, Spain
+ICPRAM 2017	International Conference on Pattern Recognition Applications and Methods	Porto, Portugal
+IRRATIONAL 2016	IMPERFECT DECISION MAKERS: ADMITTING REAL-WORLD RATIONALITY	Barcelona
+BigGraphs 2016	The 3rd IEEE Big Data Workshop on High Performance Big Graph Data Management, Analysis, and Mining	Washington, D.C.
+Special Issue GPEM 2016	Special Issue on Automated Design and Adaptation of Heuristics for Scheduling and Combinatorial Optimisation - Genetic Programming and Evolvable Machines (Springer)	N/A
+SI-HKLMA 2016	Heterogeneous Knowledge Learning for Multimedia Analytics	N/A
+FILM 2016	Future of Interactive Learning Machines Workshop @ NIPS 2016	Barcelona, Spain
+AISTATS 2017	The 20th International Conference on Artificial Intelligence and Statistics	Fort Lauderdale, Florida, USA
+Big EMPS 2016	Workshop on Big Data and Analytics for Emergency Management and Public Safety	Washington DC
+BigData-BMLIT 2016	IEEE Workshop on Big Data and Machine Learning in Telecom In conjunction with the 2016 IEEE International Conference on Big Data	Washington DC, USA
+FMBBS 2016	IEEE BIBM Workshop on Formal Methods for Biological and Biomedical Systems	Shenzhen, China
+MAMLAKE 2017	Special Session on Modern Applications of Machine Learning for Actionable Knowledge Extraction	Kanazawa, Japan
+ADS 2017	ACIIDS 2017 Special Session on Applications of Data Science	Kanazawa, Japan
+SoCPaR 2016	8th International Conference on Soft Computing & Pattern Recognition	VIT University, Vellore
+CPSCom 2016	The 9th IEEE International Conference on Cyber, Physical and Social Computing	Chengdu, Sichuan, China
+VAAM 2016	Video Analytics for Audience Measurement	Cancún - Mexico
+WNUT 2016	The 2nd Workshop on Noisy User-generated Text @COLING	Osaka, Japan
+EWRL 2016	The 13th European Workshop on Reinforcement Learning	Barcelona, Spain
+ACM SAC-RS 2017	ACM SIGAPP Symposium On Applied Computing 2017 - Track on Recommender Systems: Theory and Applications	Marrakech, Morocco
+AWRL 2016	First Asian Workshop on Reinforcement Learning	Hamilton, New Zealand
+DATA STREAMS TRACK 2017	DATA STREAMS TRACK - ACM SAC 2017	Marrakech, Morocco
+ICBNA 2016	The 3rd International Conference on Bayesian Networks and Applications	Tunisia
+WINVIZNN 2016	ACCV 2016 Workshop on Interpretation and Visualization of Deep Neural Nets	Taipei, Taiwan
+MLHPC 2016	Machine Learning in High Performance Computing Environments Workshop	Salt Lake City, UT, USA
+SeMaT 2016	AMTA 2016 Workshop on Semitic Machine Translation	Austin
+MDDM 2016	1st International Workshop on Maritime Domain Data Mining at ICDM 2016	Barcelona
+SoMeRis 2016	2nd International ICDM Workshop on Data Science for Social Media and Risk (SoMeRis 2016)	Barcelona, Spain
+WiML 2016	11th Workshop for Women in Machine Learning, Co-located with NIPS	Barcelona, Spain
+NTIRE 2016	ACCV 2016 - Workshop on New Trends in Image Restoration and Enhancement	Taipei, Taiwan
+ACCVW-MLAC 2016	ACCV'16 Workshop on Multi-view Lip-reading & Audio-visual Challenges	Taipai, Taiwan
+MLPM 2016	Special Session on Machine Learning for Predictive Models in Engineering Applications - IEEE ICMLA 2016	California
+MLSB posters 2016	Call for Poster abstracts: 10th International Workshop Machine Learning in Systems Biology (MLSB-2016)	The Hague, Netherlands
+WMLI 2016	ICANN 2016 Workshop on Machine Learning and Interpretability	Barcelona, Spain
+ACML 2016	8th Asian Conference on Machine Learning	Hamilton, New Zealand
+AECIA 2016	Third International Afro-European Conference for Industrial Advancement	Marrakesh, Morrocco
+Electronic Imaging 2017	IS&T International Symposium on Electronic Imaging 2017	Burlingame, CA
+BigDF 2016	IEEE International Workshop on Foundations of Big Data Computing	Hyderabad, India
+MLSCPS 2016	2016 IEEE Workshop on Machine Learning in Security of Cyber-Physical Systems (MLSCPS)	Anaheim, CA, USA
+IEEE HPSC 2016	The 3rd IEEE International Conference on High Performance and Smart Computing	Shenzhen, China
+ALatIKNOW 2016	Active Learning: Applications, Foundations and Emerging Trends	Graz, Austria
+AI 2016	The 29th Australasian Joint Conference on Artificial Intelligence	Hobart, Australia
+SSCI 2016	2016 IEEE Symposium on Computational Intelligence in Dynamic and Uncertain Environments	Athens, Greece
+AICS 2016	24th Irish Conference on Artificial Intelligence and Cognitive Science	Dublin, Ireland
+SSDM 2017	The 2nd ECML/PKDD 2016 workshop on Statistically Sound Data Mining	Riva del Garda, Italy
+ICACSIS 2016	ICACSIS 2016 : 8th International Conference of Advanced Computer Science and Information Systems	Malang, Indonesia
+CyberC 2016	CyberC (Tech. Sponsored by IEEE CS, IEEE Big Data, IEEE SDN) China Oct. 13-14, 2016	Chengdu, China
+Big Data 2016	The 4th International Workshop on Big Data	Chengdu, China
+IFLDS 2016	Special Issue on Information Fusion in Learning from Data Streams	N/A
+MIDAS 2016	The First Workshop on MIning DAta for financial applicationS @ECML-PKDD 2016	Riva del Garda (Italy)
+ISCMI 2016	3rd Intl. Conference on Soft Computing & Machine Intelligence	Dubai, UAE
+DSS 2016	2nd International Workshop on Data-driven Self-regulating Systems	Augsburg, Germany
+ICMLA 2016	IEEE International Conference on Machine Learning and Applications (IEEE ICMLA'16)	Los Angeles, California, USA
+MLSA 2016	Machine Learning and Data Mining for Sports Analytics (MLSA 16) @ ECML/PKDD 2016	Riva del Garda
+VARVAI 2016	1st workshop on Virtual/Augmented Reality for Visual Artificial Intelligence	Amsterdam
+SSDM 2016	The 2nd ECML/PKDD Workshop on Statistically Sound Data Mining	Riva del Garda, Italy
+UCC - IDP 2016	UCC - IDP 2016: The 5th International Workshop on Intelligent Data Processing	Shanghai
+HPCAC 2016	5th Annual Spain Conference 2016	Leon Spain
+AIPR 2016	Applied Imagery Pattern Recognition	Washington DC
+CITMIA 2016	Special Issue on Computational Intelligence Technique in Medical Image Analysis	N/A
+SCDS 2016	2nd International Conference on Soft Computing in Data Science 2016 (SCDS2016)	Kuala Lumpur
+MWDHealth 2016	The International Workshop on Mining Wearable Data for Healthcare	Chicago
+MWDHealth 2016	The International Workshop on Mining Wearable Data for Healthcare	Chicago
+GCAI 2016	GCAI 2016, CfP, 2nd Global Conference on Artificial Intelligence, Berlin, Germany, 29th September - 2nd October 2016	Berlin, Germany
+DLRS 2016	Deep Learning for Recommender Systems	Boston, USA

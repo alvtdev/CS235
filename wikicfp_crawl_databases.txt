@@ -1,0 +1,401 @@
+conference_acronym	conference_name	conference_location
+BDIOT - Ei 2017	ACM - 2017 International Conference on Big Data and Internet of Things (BDIOT2017)--Ei Compendex, Scopus and ISI	London, UK
+AI 2017	3rd International Conference on Artificial Intelligence and Applications	Chennai, India
+ARIA 2018	5th International Conference on Artificial Intelligence & Applications	Dubai, UAE
+DMS 2018	9th International Conference on Database Management Systems	Dubai, UAE
+IJCI 2017	International Journal on Cybernetics & Informatics	N/A
+IJDKP 2017	International Journal of Data Mining & Knowledge Management Process	N/A
+CNSA 2018	11th International Conference on Security and its Applications	Zurich,Switzerland
+IJBES 2017	International Journal of Biomedical Engineering and Science	N/A
+MEIJ 2017	Mechanical Engineering: An International Journal	N/A
+IJDMS 2017	International Journal of Database Management Systems	N/A
+IJMA 2017	International Journal of Multimedia & Its Applications -- ERA Indexed	N/A
+ESIJ 2017	Earth Sciences: an International Journal	N/A
+AVC 2017	Advances in Vision Computing: An International Journal	N/A
+BDAS 2018	14th (IFIP and IEEE technically co-sponsored) International Conference Beyond Databases, Architectures and Structures during IFIP World Computer Congres (IFIP WCC)	Poznan, Poland
+ICBDM - Ei 2018	2018 International Conference on Big Data Management (ICBDM 2018)--ACM, Ei Compendex and Scopus	Macau, China
+Ei - ICBDSC 2018	2018 International Conference on Big Data and Smart Computing (ICBDSC 2018)--Ei Compendex, Scopus	Casablanca, Morocco
+COMOREA 2018	14th Workshop on Context and Activity Modeling and Recognition	Athens
+FoIKS 2018	10th International Symposium on Foundations of Information and Knowledge Systems	Budapest, Hungary
+ICDPA--ACM, Scopus, Ei Compendex 2018	ACM--2018 International Conference on Data Processing and Applications (ICDPA 2018)--Scopus, Ei Compendex	Guangzhou, China
+ICBDT--EI, Scopus 2018	2018 International Conference on Big Data Technologies (ICBDT 2018)--EI Compendex and Scopus	Hangzhou, China
+DMAP 2017	3rd International Conference on Data Mining and Applications	Dubai, UAE
+EDBT 2018	21st International Conference on Extending Database Technology	Vienna, Austria
+ACM - ICBDR 2017	ACM--2017 International Conference on Big Data Research (ICBDR 2017) -- Ei Compendex & Scopus	Osaka, Japan
+IEEE Big Data 2017	2017 IEEE International Conference on Big Data	Boston, MA, USA
+ICCBDC 2017	International Conference on Cloud and Big Data Computing (ICCBDC 2017)	London, UK
+DILS 2017	12th International Conference on Data Integration in Life Science	Luxembourg
+ICDM 2017	IEEE International Conference on Data Mining 2017	NEW ORLEANS, USA
+SBBD 2017	32nd Brazilian Symposium on Databases	Uberlandia, MG - Brazil
+CIKM 2017	The 26th 2017 ACM Conference on Information and Knowledge Management	SINGAPORE
+WISE 2017	WISE 2017: The 18th International Conference on Web Information Systems Engineering	Moscow, Russia
+FDM 2017	Digital processes and information systems in research data management	Chemnitz
+DTMN 2017	3rd International Conference on Data Mining	Dubai, UAE
+DMDB 2017	4th International Conference on Data Mining and Database	Vienna, Austria
+TIME 2017	24th International Symposium on Temporal Representation and Reasoning	Mons, Belgium
+ADBIS 2017	21st European Conference on Advances in Databases and Information Systems	Nicosia, Cyprus
+IDEAS 2017	21st International Database Engineering & Applications Symposium	Bristol
+ADBIS 2017	21st European Conference on Advances in Databases and Information Systems	Hilton Hotel Cyprus, Nicosia
+DEBS 2017	11th ACM International Conference on Distributed and Event‐based Systems	Barcelona, Spain, Europe
+GeoRich 2017	GeoRich@SIGMOD/PODS 2017: Submission Deadline Extended to March 5	TBD
+GeoRich 2017	GeoRich 2017 : GeoRich@SIGMOD/PODS 2017: Submission Deadline Extended to March 5 - CORRECT DATES	TBD
+DATA 2017	6th International Conference on Data Science, Technology and Applications	Madrid, Spain
+WebDB 2017	International Workshop on the Web and Databases	Chicago, IL, USA
+GeoRich @ ACM SIGMOD/PODS 2017	GeoRich 2017 - ACM SIGMOD Workshop on Managing and Mining Enriched Geo-Spatial Data	Raleigh, NC, USA
+DMS 2017	Eighth International Conference on Database Management Systems	Sydney, Australia
+Computational Intelligence in RDF 2017	Call for Book Chapters: Computational Intelligence in RDF Data Management (being published by Springer-Verlag)	N/A
+DCIRS - 2017	The Second International Workshop on Database and Computerized Information Retrieval Systems	Trieste, Italy
+SBD 2017	Semantic Big Data	Raleigh, USA
+ADBIS - Workshops 2017	21st European Conference on Advances in Databases and Information Systems (ADBIS 2017) Workshops	Nicosia, Cyprus
+AIFU 2017	Third International Conference on Artificial Intelligence and Applications	Dubai , UAE
+ACTIVE 2017	First International Workshop on Data Management on Virtualized Active Systems (In Conjunction with the IEEE ICDE 2017)	San Diego, CA
+BDAS 2017	13th (IEEE technically co-sponsored) International Conference Beyond Databases, Architectures and Structures	Ustron near Krakow (Cracow), Poland
+DASFAA 2017	The 22nd International Conference on Database Systems for Advanced Applications	Suzhou
+ICDE 2017	IEEE INTERNATIONAL CONFERENCE ON DATA ENGINEERING 2017	San Diego
+BTW 2017	The 17th Conference on Database Systems for Business, Technology, and Web	Stuttgart, Germany
+ISDSA 2016	First International Symposium on Data Science and Applications	Milan, Italy
+SIGMOD 2017	2017 ACM SIGMOD Conference	Raleigh
+CITI 2016	2nd International Conference on Technologies and Innovation	Guayaquil, Ecuador
+BDTA 2016	7th EAI International Conference on Big Data Technologies and Applications	Seoul, South Korea
+RuleML Challenge 2016	10th International Rule Challenge 2016	Stony Brook University, New York, USA
+QDB 2016	VLDB Workshop on Quality in Databases	New Delhi, India
+PQ 2016	Process Querying 2016	Rio de Janeiro, Brazil
+SoCC 2016	ACM Symposium on Cloud Computing (SoCC) 2016	Santa Clara, California, USA
+SISAP 2016	9th International Conference on Similarity Search and Applications	Tokyo, Japan
+APWeb 2016	Asia-Pacific Web Conference	Suzhou
+CN4IoT 2016	2nd EAI International Conference on Cloud, Networking for IoT systems	Brindisi
+GvDB 2016	27.GI-Workshop - Grundlagen von Datenbanken	Nörten-Hardenberg, Germany
+ER 2016	Call for Papers: ER 2016 - The 35th International Conference on Conceptual Modeling	Gifu (Japan)
+VLDB 2016	42nd international conference on very large data bases	New Delhi
+Baltic DB&IS, DC 2016	Doctoral Consortium, 12th International Baltic Conference on Databases and Information Systems 2016	Riga, Latvia
+BDAS 2016	12th (IEEE technically co-sponsored) International Conference Beyond Databases, Architectures and Structures	Ustron near Krakow (Cracow), Poland
+BDQM 2016	The 1st International Workshop on Big Data Quality Management	Dallas, TX
+TRANSACT 2016	11th ACM SIGPLAN Workshop on Transactional Computing	Barcelona, Spain
+ICDE 2016	International Conference on Data Engineering	Helsinki, Finland
+COMAD 2016	Conference on Management of Data, 2016	Pune, India
+ICDM 2015	ICDM 2015 Student Travel Grants	Atlantic City, NJ, USA
+SIGMOD 2016	ACM International Conference on Management of Data	San Francisco, USA
+ESAIR 2015	8th Workshop on Exploiting Semantic Annotations for Information Retrieval	Melbourne, Australia
+ICDM 2015	International Conference on Data Mining	Atlantic City, NJ, USA
+OJIOT 2015	Internet of Ubiquitous and Pervasive Things	N/A
+SISAP 2015	8th International Conference on Similarity Search and Applications	Glasgow, UK
+DSAA 2015	IEEE International Conference on Data Science and Advanced Analytics (DSAA 2015)	Paris - France
+GID 2015	ADBIS workshop on GPUs in Databases	Poitiers, France
+SUM 2015	Ninth International Conference on Scalable Uncertainty Management	Quebec, Canada
+KAM 2015	21st Conference on Knowledge Acquisition and Management	Lodz, Poland
+COSIT 2015	12th International Conference on Spatial Information Theory	Santa Fe, New Mexico, USA.
+SSTD 2015	14th International Symposium on Spatial and Temporal Databases	Seoul, South Korea
+DaWaK 2015	17th International Conference on Big Data Analytics and Knowledge Discovery - DaWaK 2015	Valencia, Spain
+JWS-SI-KG 2015	Journal of Web Semantics special issue on knowledge graphs	N/A
+VLDB 2015	41st International Conference on Very Large Data Bases	Kohala Coast, Hawaii, USA
+ADC 2015	Australasian Database Conference	Melbourne
+IUPT 2015	The 5th International Symposium on Internet of Ubiquitous and Pervasive Things	London, UK
+ADBIS - 2015	[ADBIS'2015]: Call for Workshop Proposals	Poitiers
+DAPHNE 2015	International Workshop on Data (Co-)Processing on Heterogeneous Hardware	Brussels, Belgium
+ICICS 2015	The 6th IEEE International Conference on Information and Communication Systems	Amman, Jordan
+BDAS 2015	11th (IEEE technically co-sponsored) International Conference Beyond Databases, Architectures and Structures	Ustron near Krakow, Poland
+DASFAA (Demo Track) 2015	The 20th International Conference on Database Systems for Advanced Applications (Demo Track)	Hanoi, Vietnam
+SIGMOD 2015	International Conference on Management of Data	Melbourne, VIC, Australia
+Big Data in Cloud Computing 2014	Call for Book Chapters: Managing Big Data in Cloud Computing Environments	N/A
+DBDBD 2014	The Dutch-Belgian Database Day 2014	Antwerp, Belgium
+SCDM 2014	2nd Scalable Cloud Data Management Workshop	Washington DC
+COMAD 2014	International Conference on Management of Data (COMAD)	Hyderabad, India
+BBH 2014	The 2nd International Workshop of BigData in Bioinformatics and Healthcare Informatics	Washington D.C., USA
+IDAM 2014	The 4th Intelligent Data Analysis and Management	Kaohsiung, Taiwan
+SDA 2014	4th International Workshop on Semantic Digital Archives (SDA)	London
+ICCIDM 2014	International Conference on Computational Intelligence in Data Mining, Springer	Odisha, India
+ICDM 2014	IEEE International Conference on Data Mining	Shenzhen, China
+ICDM 2014	[2nd Round CFP] ICDM '14: The 14th IEEE International Conference on Data Mining	Shenzhen, China
+ODBASE 2014	The conference on Ontologies, DataBases, and Applications of Semantics for Large Scale Information Systems	Amantea, Italy
+FDSE 2014	The 1st International Conference on Future Data and Security Engineering 2014	Ho Chi Minh City, Vietnam
+DAB 2014	3rd International Workshop on Data- and Artifact-Centric BPM	Haifa, Israel
+BIRTE 2014	Eighth International Workshop on Real-Time Business Intelligence	Hangzhou, China
+BigSys 2014	Workshop on System Software Support for Big Data	Stuttgart, Germany
+SISAP (LNCS and IS Journal) 2014	7th International Conference on Similarity Search and Applications	Los Cabos, Mexico
+GID 2014	ADBIS workshop on GPUs in Databases	Ohrid, Republic of Macedonia
+GID 2014	ADBIS Workshop on GPUs In Databases	Ohrid, Republic of Macedonia
+EnviroInfo 2014	28th International Conference on Informatics for Environmental Protection	Oldenburg, Lower Saxony, Germany
+SBBD 2014	Brazilian Symposium on Databases - JIDM articles	Curitiba, Brazil
+JISBD 2014	Jornadas de Ingeniería del Software y Bases de Datos	Cadiz (Spain)
+APWeb 2014	Call for Demo: The 16th Asia-Pacific Web Conference	Changsha, China
+PBDA 2014	Performance of Business Database Applications	Warsaw, Poland
+DanaC 2014	Workshop on Data Analytics in the Cloud	Songbird, Utah, U.S.A
+RDSS 2014	Workshop on Reliable Data Services and Systems	Snowbird, Utah, USA
+GRADES 2014	GRAph Data-management Experiences and Systems	Snowbird (Utah), USA
+ATGRC 2014	The International Workshop on Advanced Technologies for Governance, Risk and Compliance	Munich, Germany
+WebDB 2014	International Workshop on the Web and Databases	Snowbird, Utah, USA
+NoSQL-Net 2014	1st International Workshop on NoSQL Databases and Linked Data Applications	Munich, Germany
+DaMoN 2014	Tenth International Workshop on Data Management on New Hardware	Snowbird, Utah, USA
+HardBD 2014	The Second International Workshop on Big Data Management on Emerging Hardware	Macau, China
+SEBD 2014	The 22nd Italian Symposium on Advanced Database Systems	Sorrento Coast, Italy
+BUDA 2014	Workshop on Big Uncertain Data	Snowbird, Utah, USA
+DSMM 2014	Workshop on Data Science for Macro-Modeling	Snowbird, Utah, USA
+SWEET 2014	3rd International Workshop on Scalable Workflow Enactment Engines and Technologies	Snowbird, Utah, USA
+DATA 2014	Int'l Conf. on Data Management Technologies and Applications	Vienna, Austria
+DaWaK 2014	16th International Conference on Data Warehousing and Knowledge Discovery	Munich, Germany
+AECM 2014	Workshop on Applied Enterprise Content Management	Munich, Germany
+Cloud-I@IS 2013	Information Sciences special issue on Cloud Intelligence	N/A
+VLDB 2014	40th International Conference on Very Large Data Bases	Hangzhou, China
+DC @ Baltic DB&IS 2014	Call for PhD Consortium - 11th International Baltic Conference on DB and IS, DB&IS2014 / June 9, 2014, Tallinn, ESTONIA	Tallinn, Estonia
+Baltic DB&IS 2014	The 11th International Baltic Conference on Databases and Iinformation Systems, DB&IS2014	Tallinn, ESTONIA
+IUPT 2014	The 4th International Symposium on Internet of Ubiquitous and Pervasive Things	Hasselt, Belgium
+DILS 2014	10th International Conference on Data Integration in the Life Sciences	Lisbon, Portugal
+SYRCoDIS 2014	The 10th Spring Researchers Colloquium on Databases and Information Systems	Veliky Novgorod, Russia
+ADC 2014	The 25th Australasian Database Conference	Brisbane, Australia
+MDM 2014	15th IEEE International Conference on Mobile Data Management	Brisbane, Australia
+Graph-TA 2014	Workshop on Graph-based Technologies and Applications	Barcelona
+iCICS 2014	The 5th IEEE International Conference on Information and Communication Systems	Irbid, Jordan
+DEOS 2014	4th Workshop on Data Extraction and Object Search	Seoul, South Korea
+BDAS 2014	10th IEEE International Conference Beyond Databases, Architectures and Structures	Ustron, Poland
+DNIS 2014	9th International Workshop on Databases in Networked Information Systems	University of Aizu, Aizu-Wakamatsu, Japan
+DMC 2014	International Workshop on Data Management in the Cloud	Chicago, IL, United States of America
+EnDM 2014	3rd International Workshop on Energy Data Management	Athens, Greece
+LWDM 2014	4th International Workshop on Linked Web Data Management	Athens, Greece
+PODS 2014	33rd ACM SIGMOD-SIGACT-SIGART Symposium on Principles Of Database Systems	Snowbird, Utah, USA
+GraphQ 2014	The Third International Workshop on Querying Graph Structured Data	Athens, Greece
+NTMS 2014	Sixth IFIP International Conference on New Technologies, Mobility and Security	Dubai, UAE
+SMDB 2014	9th International Workshop on Self-Managing Database Systems	Chicago IL, USA
+CloudDB 2014	The 6th International workshop on Cloud Data Management	Chicago, IL USA
+PAKDD (Tutorial) 2014	PAKDD 2014: CALL FOR TUTORIAL PROPOSALS	Tainan, Taiwan
+ExData CiSE 2014	Special Issue on Extreme Data, Computing inScience & Engineering	N/A
+GDM 2014	The 3rd International Workshop on Graph Data Management: Techniques and Applications	Chicago, IL, USA
+EDBT/ICDT Tutorials 2014	EDBT/ICDT 2014 Call for Tutorials	Athens, Greece
+DMS 2013	Fifth International conference on Database Management Systems	Zurich, Switzerland
+DBDBD 2013	The Dutch-Belgian Database Day	Rotterdam, Netherlands
+EDBT 2014	International Conference on Extending Database Technology	Athens, Greece
+SITIS 2013	Special Session on CLOUD and VIRTUALIZED ENVIRONMENT Meet BIG DATA	Kyoto Terrsa, Japan
+FoIKS 2014	Eighth International Symposium on Foundations of Information and Knowledge Systems	Bordeaux, France
+ICECIT 2013	International Conference on Emerging Computation & Information Technologies	Tumkur
+DaEng 2013	The First International Conference on Advanced Data and Information Engineering - LNEE Springer	Kuala Lumpur, Malaysia
+APCCM 2014	Tenth Asia-Pacific Conference on Conceptual Modelling	Auckland
+APCCM 2013	The Ninth Asia-Pacific Conference on Conceptual Modelling	Adelaide, South Australia, Australia
+COMAD 2013	19th International Conference on Management of Data	Ahmedabad, India
+ICIA 2013	The Second International Conference on Informatics and Applications	Lodz, Poland
+TIDM 2013	The First International Workshop on TeraScale In-Core Data Mining	Dallas, Texas
+BiDaDA 2013	1st Workshop on Biological Data mining and Database Applications	Dallas, Texas, USA
+SIN 2013	The 6th International Conference on Security of Information and Networks (SIN 2013)	Aksaray, Turkey
+EDBT/ICDT Workshops 2014	EDBT/ICDT 2014 Call for Workshop Proposals	Athens, Greece
+ICDE 2014	IEEE International Conference on Data Engineering	Chicago, USA
+SoCC 2013	ACM Symposium on Cloud Computing	San Jose, CA
+BDSAV 2013	The 1st International Workshop on Big Data Storage, Analytics, and Visualization	Washington D.C., United States
+CloudDB 2013	The Fifth International workshop on Cloud Data Management	San Franciso
+RWVW 2013	International Workshop on Predicting Real World Behaviors from Virtual World Data	Boston, MA, USA
+DOLAP 2013	16th International Workshop on Data Warehousing and OLAP	Burlingame, CA, USA
+NoCoDA 2013	2nd Intl Workshop on Non-Conventional Data-Access	San Francisco, CA, USA
+DiPP 2013	International Conference on Digital Presentation and Preservation of Cultural and Scientific Heritage	Veliko Tarnovo, Bulgaria
+Cloud-I 2013	2nd International Workshop on Cloud Intelligence	Riva del Garda, Trento, Italy
+DBPL 2013	14th International Symposium on Database Programming Languages	Trento, Italy
+PersDB 2013	The 7th International Workshop on Personalized Access, Profile Management, and Context Awareness in Databases	Riva del Garda, Trento, Italy
+DBCrowd 2013	First VLDB Workshop on Databases and Crowdsourcing	Riva del Garda, Italy
+QDB 2013	11th International Workshop on Quality in DataBases	Trento, Italy
+BIRTE 2013	Seventh International Workshop on Real-Time Business Intelligence	Trento, Italy
+IDEAS 2013	17th International Database Engineering & Applications Symposium	Barcelona
+DAB 2013	2nd International Workshop on Data and Artifact-Centric BPM	Beijing, China
+DIM 2013	The Second IEEE International Workshop on Data Integration and Mining	San Francisco, USA
+ISWC-InUse 2013	The 12th International Semantic Web Conference - In Use Track	Sydney, Australia
+ODBASE 2013	The 12th International Conference on Ontologies, DataBases, and Applications of Semantics	Graz, Austria
+CLEI 2013	XXXIX Conferencia Latinoamericana en Informática	Naiguatá, VENEZUELA
+CLEI 2013	XXXIX Latin-American Conference on Computer Sciences	Naiguatá, VENEZUELA
+CLTM 2013	LATIN-AMERICAN MASTER THESIS CONTEST	Naiguatá, VENEZUELA
+CIESC 2013	XXI Iberoamerican Congress on Higher Education in Computing	Naiguatá, VENEZUELA
+BiDaTA 2013	Adbis Special session on Big Data: New Trends and Applications	Genoa, Italy
+CSE 2013	The International Workshop on Cloud and Service Engineering	Aalborg, Denmark
+ICDIM 2013	Eighth International Conference on Digital Information Management	Islamabad
+RSmeetDB 2013	3rd Workshop on Recommender Systems meet Databases	Prague, Czech Republic
+MEDI 2013	Third International Conference On Model and Data Engineering	Amantea, Calabria, Italy
+SoEA4EE 2013	The Fifth Workshop on Service oriented Enterprise Architecture for Enterprise Engineering	Vancouver, Canada
+SEBD 2013	21th Italian Symposium on Advanced Database Systems	Roccella Jonica (RC) - ITALY
+IMDM 2013	First Workshop on In-Memory Data Management - Applications and Architectures	Koblenz, Germany
+GRADES 2013	Graph Data-management Experiences and Systems	New York, NY, USA
+SI-MCS 2013	CFP: Mathematics in Computer Science, Special Issue on Mathematics, Data and Knowledge	Mathematics in Computer Science
+CPS 2013	Special Session on Cooperative Problem Solving	Craiova, Romania
+MobiDE 2013	12th International ACM Workshop on Data Engineering for Wireless and Mobile Access	New York, USA
+DEXA 2013	24th International Conference on Database and Expert Systems Applications	Prague, Czech Republik
+DaWaK 2013	15th International Conference on Data Warehousing and Knowledge Discovery	Prague, Czech Republic
+DBSocial 2013	ACM SIGMOD Workshop on Databases and Social Networks (DBSocial) 2013	New York, NY, USA
+DaMoN 2013	Ninth International Workshop on Data Management on New Hardware	New York, NY, USA
+SWEET 2013	2nd International Workshop on Scalable Workflow Enactment Engines and Technologies	New York, NY, USA
+WOD 2013	2nd International Workshop on Open Data	Paris, France
+WebDB 2013	16th International Workshop on the Web and Databases	New York, NY, USA
+DEOS 2013	Workshop on Data Extraction and Object Search	Oxford, United Kingdom
+DyNetMM 2013	First SIGMOD/PODS Workshop on Dynamic Networks Management and Mining	New York, USA
+SSTD 2013	13th International Symposium on Spatial and Temporal Databases	Munich, Germany
+VLDB 2013	International Conference on Very Large Data Bases	Lago Di Garda, Trento, Italy
+miproBIS 2013	Business Intelligence Systems	Opatija, Croatia
+DILS 2013	The Ninth International Conference on Data Integration in the Life Sciences 2013	Montreal, Quebec, Canada
+iCICS 2013	The 4th International Conference on Information and Communication Systems	Irbid, Jordan
+BNCOD 2013	29th British National Conference on Databases	University of Oxford, United Kingdom
+ICWS 2013	IEEE 20th International Conference on Web Services	Santa Clara, CA, USA
+AMW 2013	The 7th Alberto Mendelzon International Workshop on Foundations of Data Management	Puebla/Cholula, Mexico
+SYRCoDIS 2013	The Ninth Spring Researchers Colloquium on Databases and Information Systems 2013	Kazan, Russia
+DMC 2013 at BTW 2013	1st Workshop on Data Management in the Cloud	Magdeburg, Germany
+BDAS 2013	IX Konferencja Naukowa Bazy Danych - Aplikacje i Systemy	Ustron, Poland
+PAIS 2013	6th International Workshop on Privacy and Anonymity in the Information Society	Genoa, Italy
+DaMEN 2013	The Second International Workshop on Data Management for Emerging Network Infrastructure	Sydney, Australia
+GraphQ 2013	The Second International Workshop on Querying Graph Structured Data	Genoa, Italy
+EnDM 2013	Workshop on Energy Data Management at EDBT	Genoa, Italy
+EnDM@EDBT 2013	Workshop on Energy Data Management	Genoa, Italy
+BEWEB 2013	4th International Workshop on Business IntelligencE and the Web	Genoa, Italy
+BIGProv 2013	International Workshop on Managing and Querying Provenance Data at Scale	Genova, Italy
+PODS 2013	32nd ACM SIGMOD-SIGACT-SIGART Symposium on Principles Of Database Systems	New York, New York, USA
+DNIS 2013	8th International Workshop on Databases in Networked Information Systems	University of Aizu, Aizu-Wakamatsu, Japan
+BDI 2013	International Symposium on Biomedical Data infrastructure	Kuala Lumpur, Malaysia
+SMDB 2013	8th International Workshop on Self-Managing Database Systems	Brisbane, Australia
+SIGMOD 2013	ACM SIGMOD International Conference on Management of Data	New York
+SIPIJ 2012	Signal & Image Processing : An International Journal	N/A
+ACIIDS 2013	Special Session on Intelligent Recommended Systems	Kuala Lumpur, Malaysia
+DASFAA 2013	The 18th International Conference on Database Systems for Advanced Applications	Wuhan, China
+PrivDB 2013	First International Workshop on Privacy-Preserving Data Publication and Analysis	Brisbane, Australia
+CICCI 2013	2nd International Conference on Informatics and Computer Sciences	La Habana, Cuba
+EDBT 2013	International Conference on Extending Database Technology	Genoa, Italy
+DBDBD 2012	The Dutch Belgian Database Day	Brussels, Belgium
+GDM 2013	The 4th International Workshop on Graph Data Management: Techniques and Applications	Brisbane, Australia
+ASIIS (ACM SAC) 2013	ACM SAC - Track on ADVANCES IN SPATIAL AND IMAGE-BASED INFORMATION SYSTEMS (ASIIS 13)	Coimbra, Portugal
+ACM - DTTA Track 2013	ACM Scientific Applications Conference - Database Theory, Technology and Applications Track	Coimbra, Portugal
+PDAC 2012	3rd International Workshop on Petascale Data Analytics: Challenges and Opportunities	Salt Lake City, Utah, USA
+NetSys PhD Forum 2013	The Conference on Networked Systems PhD Forum	Stuttgart, Germany
+ICDT 2013	16th International Conference on Database Theory	Genoa, Italy
+COMAD 2012	18th International Conference on Management of Data	Pune, India
+CIDR 2013	6th BIENNIAL CONFERENCE ON INNOVATIVE DATA SYSTEMS RESEARCH	Asilomar, California
+CSE 2012	The 15th IEEE International Conference on Computational Science and Engineering	Paphos, Cyprus
+C-Big 2012	International Workshop on Collaborative Big Data	Pittsburgh, PA, USA
+CDMW 2012	City Data Management Workshop 2012 in conj. with CIKM 2012	Maui, Hawaii USA
+ICDE 2013	29TH INTERNATIONAL CONFERENCE ON DATA ENGINEERING	Brisbane, Australia
+Oriental COCOSDA 2012	International Conference on Speech Database and Assessments	Macau, China
+ICE-B 2012	International Conference on e-Business	Rome, Italy
+INTECH 2012	The Second International Conference on Innovative Computing Technology	Rabat
+CloudDB 2012	The Fourth International Workshop on Cloud Data Management	Maui, Hawaii, USA
+WISE 2012	The 13th International Conference on Web Information System Engineering	Paphos, Cyprus
+SoDAC 2012	INNS Symposium on Data Analytics and Competitions	Bangkok, Thailand
+SOCC 2012	ACM Symposium on Cloud Computing	San Jose, CA
+CIKM Posters 2012	Posters: 21st ACM International Conference on Information and Knowledge Management	Maui, USA
+BIRTE 2012	VLDB12 Workshop on Real-Time Business Intelligence	Istanbul, Turkey
+BIGDATA 2012	Workshop on End-to-End Management of Big Data	Istanbul, Turkey
+NISTBigData 2012	NIST Big Data Workshop	Gaithersburg, MD USA
+QDB 2012	10th International Workshop on Quality in DataBases	Istanbul, Turkey
+SBBD 2012	27th Brazilian Symposium on Database	São Paulo, Brazil
+ECAI AIL 2012	Workshop on Active and Incremental Learning	Montpellier, France
+IASIM 2012	Special Session on Intelligent Agents & Simulation	Rome, Italy
+CIKM 2012	21st ACM International Conference on Information and Knowledge Management	Maui, U.S.A
+CIKM 2012	21st ACM International Conference on Information and Knowledge Management	Maui, USA
+SDM 2012	9th VLDB Workshop on Secure Data Management	Istanbul, Turkey
+EDB 2012	The fourth International Conference on Emerging Databases - Technologies, Applications, and Theory	Seoul, Korea
+IDEAS 2012	16th International Database Engineering & Applications Symposium	Prague,
+SOMOCO 2012	International Workshop on SOcial and MObile COmputing for collaborative environments	Rome, Italy
+PersDB 2012	Sixth International Workshop on Personalized Access, Profile Management, and Context Awareness in Databases	Istanbul, Turkey
+MDDE 2012	The First International Workshop on Multimedia Databases and Data Engineering	Istanbul, Turkey
+DBRank 2012	Sixth International Workshop on Ranking in Databases	Instabul, Turkey
+MCSD 2012	Mining Complex and Stream Data, MCSD 12	Poznan, Poland
+MDSP 2012	The 1st International Workshop on Massive Data Storage and Processing	Harbin, China
+NIMD 2012	Networking Implantable Medical Devices	Rome, Italy
+ECDM 2012	Sixth International Workshop On Evolution And Change In Data Management	Florence, Italy
+SUM 2012	Sixth International Conference on Scalable Uncertainty Management	Marburg, Germany
+CISIM 2012	11th International Conference on Computer Information Systems and Industrial Management Applications	Venice, Italy
+JISBD 2012	XVII Jornadas de Ingeniería del Software y Bases de Datos	Almería, Spain
+XMLDM 2012	The Third International Workshop on XML Data Management	Harbin, China
+DATA 2012	International Conference on Data Technologies and Applications	Rome, Italy
+DIM 2012	IEEE International Workshop on Data Integration and Mining	Las Vegas, Nevada, USA
+DBLM 2012	International Workshop on Database Technology for Life Sciences and Medicine	Vienna, Austria
+MEDI 2012	2nd International Conference On Model and Data Engineering	Poitiers, Futuroscope, France
+HDMS 2012	2012 The Hellenic Data Management Symposium	Chania, Crete, Greece
+MORE-BI 2012	2nd Int. Workshop on Modeling and Reasoning for Business Intelligence (MORE-BI 2012) at ER 2012	Florence, Italy
+SEBD 2012	20th Italian Symposium on Advanced Database Systems	Venice, Italy
+DaWaK 2012	14th International Conference on Data Warehousing and Knowledge Discovery	Vienna, Austria
+SISAP 2012	5th International Conference on Similarity Search and Applications	Toronto, Canada
+RSmeetDB 2012	2nd Workshop on Recommender Systems meet Databases	Vienna, Austria
+BalticDB&IS 2012	10th International Baltic Conference on Data Bases and Information Systems	Vilnius, Lithuania
+DBTest 2012	Fifth International Workshop on Testing Database Systems	Scottsdale, Arizona, USA
+SYRCoDIS 2012	The Eighth Spring Researchers Colloquium on Databases and Information Systems	Moscow, Russia
+DBSocial 2012	Second ACM SIGMOD Workshop on Databases and Social Networks	Scottsdale, AZ, United States
+WebDB 2012	15th International Workshop on the Web and Databases	Scottsdale, AZ, USA
+WOD 2012	First International Workshop on Open Data	Nantes, France
+WOD 2012	First International Workshop on Open Data (DEADLINE EXTENDED to MARCH 8th)	Nantes, France
+DCNET 2012	International Conference on Data Communication Networking (DCNET)	Rome, Italy
+DCNET 2012	International Conference on Data Communication Networking	Rome, Italy
+AMW 2012	6th ALBERTO MENDELZON INTERNATIONAL WORKSHOP ON FOUNDATIONS OF DATA MANAGEMENT	Ouro Preto, Brazil
+VLDB 2012	38th International Conference on Very Large Databases	Istanbul, Turkey
+BalticDB&IS 2012	10th International Baltic Conference on Data Bases and Information Systems	Vilnius, Lithuania
+DATA 2012	International Conference on Data Technologies and Applications (DATA)	Rome, Italy
+MobiDE 2012	11th International ACM Workshop on Data Engineering for Wireless and Mobile Access	Scottsdale, Arizona, USA
+VAST 2012	2nd Int'l Workshop on Variability-intensive Systems Testing, Validation & Verification	Montreal, Canada
+SSDBM 2012	24th International Conference on Scientific and Statistical Database Management	Chania, Crete, Greece
+SSDBM 2012	24th International Conference on SCIENTIFIC and Statistical Database Management	Chania, Crete, Greece
+BDAS 2012	Bazy Danych - Aplikacje i Systemy	Ustron, Poland
+NEDB Summit 2012	Fifth Annual New England Database Summit	Cambridge, MA, USA
+FlashDB 2012	The Second International Workshop on Flash-based Database Systems	Busan, South Korea
+MDM 2012	13th IEEE International Conference on Mobile Data Management	Bangalore, India
+KES-IDT 2012	4th KES International Conference on Intelligent Decision Technologies	Gifu, Japan
+PODS 2012	31st ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems	Scottsdale, Arizona, USA
+AIKED 2012	11th WSEAS International Conference on ARTIFICIAL INTELLIGENCE, KNOWLEDGE ENGINEERING and DATA BASES	Cambridge. UK
+SMDB 2012	Seventh International Workshop on Self-Managing Database Systems	Washington DC, USA
+DMC 2012	The 1st International Workshop on Data Management in the Cloud	Washington DC, USA
+DBDBD 2011	The Dutch Belgian Database Day	University of Twente, The Netherlands
+SIGMOD 2012	2012 ACM SIGMOD International Conference on Management of Data	Scottsdale, Arizona, USA
+SDMSM 2012	ICDE Workshop on Secure Data Management on Smart Phones and Mobile Devices	Washington DC, USA
+STIR 2012	ICDE 2012 Workshop on Spatio Temporal data Integration and Retrieval	Washington DC, USA
+GDM 2012	The 3rd International Workshop on Graph Data Management: Techniques and Applications	Washington DC, USA
+HIS 2012	The 1st International Conference on Health Information Science	Beijing, China
+DBKDA 2012	The Fourth International Conference on Advances in Databases, Knowledge, and Data Applications	Reunion Island
+ISCI 2012	2012 IEEE Symposium on Computers & Informatics	Penang, Malaysia
+D-CLOUD 2011	The 2011 International Workshop on Data Cloud	Hong Kong
+COMNET SI on GreenNets 2011	COMNET Special Issue on “Green Communication Networks”	N/A
+ACIIDS 2012	The 4th Asian Conference on Intelligent Information and Database Systems	Kaohsiung, Taiwan
+XLDB 2011	5th Extremely Large Databases Conference	Menlo Park, CA
+ADC 2012	Australasian Database Conference	Melbourne, Australia
+HPCDB 2011	1st Workshop on High Performance Computing Meets Databases	Seattle, WA, USA
+DNIS 2011	7th International Workshop on Databases in Networked Information Systems	Aizu-Wakamatsu, Japan
+COMAD 2011	The 17th International Conference on Management of Data	Bangalore, Karnataka, India
+OrdRing 2011	First International Workshop on Ordering and Reasoning	Bonn, Germany
+DDDM 2011	The 5th International Workshop on Domain Driven Data Mining	Vancouver, Canada
+ICDT 2012	15th International Conference on Database Theory	Berlin, Germany
+DDDM 2011	CFP: DDDM 2011 Workshop joint with ICDM 2011, Deadline July 23, Vancouver, Canada	Vancouver, Canada
+UOII 2011	Workshop User Oriented Information Integration	Riga, Latvia
+VDA 2012	Conference on Visualization and Data Analysis	Burlingame, CA
+IDEAS '11D 2011	15th International Database Engineering & Applications Symposium	Lisbon
+DOLAP 2011	Fourteenth International Workshop on Data Warehousing and Olap	Glasgow, Scotland, UK
+FDML 2011	International Symposium on Foundations of Data Mining and Learning	Kaohsiung, Taiwan
+Oriental COCOSDA 2011	International Conference on Speech Database and Assessments	Hsinchu City, Taiwan
+CAIA 2011	Context Aware Intelligent Assistance	Berlin, Germany
+CloudDB 2011	Third International Workshop on Cloud Data Management	Glasgow, Scotland, U.K.
+QoS-Workshop 2011	The 1st International Workshop on Service Oriented QoS Management from Theory to Practice	Beijing China
+DBPL 2011	The 13th International Symposium on Database Programming Languages	Seattle, USA
+DBRank 2011	Fifth International Workshop on Ranking in Databases In Conjunction with VLDB 2011	Seattle, WA, USA
+VLDS 2011	First International Workshop on Searching and Integrating New Web Data Sources	Seattle, WA, United States
+QDB 2011	9th International Workshop on Quality in Databases	Seattle, WA, USA
+CMS 2011	2nd International Workshop on Conceptual Modelling of Services	Milan, Italy
+EDB 2011	The Third International Conference on Emerging Databases - Technologies, Applications and Theory	Incheon, Korea
+TPCTC 2011	Third TPC Technology Conference on Performance Evaluation & Benchmarking	Seattle, WA
+IDEAS 2011	IDEAS'11: 15th International Database Engineering & Applications Symposium	Lisbon
+WOD - Summer School 2011	WEB OF DATA: Joint RuSSIR/EDBT Summer School 2011	Saint-Petersburg
+CIKM 2011	20th ACM Conference on Information and Knowledge Management	Glasgow, Scotland, UK
+CIKM 2011	20th ACM International Conference on Information and Knowledge Management	Glasgow, Scotland, UK
+TC4SP 2011	Second International Workshop on Traceability and Compliance of Semi-Structured Processes	Clermont-Ferrand, France
+KEOD 2011	Int'l Conf. on Knowledge Engineering and Ontology Development	Paris, France
+CECIIS 2011	Central European Conference on Information and Intelligent Systems	Varazdin, Croatia
+SUM 2011	Fifth International Conference on Scalable Uncertainty Management	Dayton, Ohio
+DBLM 2011	International Workshop on Database Technology for Life Sciences and Medicine	Toulouse, France
+SDM 2011	8th VLDB Workshop on Secure Data Management	Seattle, WA, USA
+exploreWeb 2011	First International Workshop on Search, Exploration and Navigation of Web Data Sources	Paphos, Cyprus
+RSmeetDBs 2011	Recommender Systems meet Databases	Toulouse
+JISBD 2011	XVI Jornadas de Ingeniería del Software y Bases de Datos	A Coruña, Spain
+HDMS 2011	10th Hellenic Data Management Symposium	Athens, Greece
+DocEng 2011	ACM Symposium on Document Engineering	Mountain View, CA, USA
+TLAD 2011	9th International Workshop on Teaching, Learning and Assessment of Databases	Manchester, United Kingdom
+Globe 2011	4th International Conference on Data Management in Grid and P2P Systems	Toulouse, France
+GeoDBIS 2011	1st International Workshop on Geometric Objects in Databases and Information Systems	Vienna, Austria
+TaPP 2011	3rd USENIX Workshop on the Theory and Practice of Provenance	Heraklion, Crete, Greece
+Balisage 2011	Balisage: The Markup Conference	Montréal, Canada
+DBSocial 2011	ACM SIGMOD Workshop on Databases and Social Networks	Athens, Greece
+GID 2011	First ADBIS workshop on GPUs In Databases	Vienna, Austria
+ADBIS 2011	Fifteenth East-European Conference on Advances in Databases and Information Systems	Vienna, Austria
+DaMoN 2011	Seventh International Workshop on Data Management on New Hardware	Athens, Greece
+DBTest 2011	4th International Workshop on Testing Database Systems	Athens, Greece
+MobiDE 2011	10th ACM International Workshop on Data Engineering for Wireless and Mobile Access	Athens, Greece
+DaWaK 2011	13th International Conference on Data Warehousing and Knowledge Discovery	Toulouse, France
+SEBD 2011	19th Italian Symposium on Advanced Database Systems	Maratea, Italy
+MIMIC 2011	Fifth International Workshop on Management and Interaction with Multimodal Information Content	Toulose, France
+IDAR 2011	SIGMOD/PODS PhD Workshop on Innovative Database Research	Athens, Greece
+DEXA 2011	Database and Expert Systems Applications	Toulouse, France
+E-LKR 2011	1st International Workshop on Exploiting Large Knowledge Repositories	Toulouse, France
+DALI 2011	Data, Logic and Inconsistency	Toulouse, France
+SOTM-EU 2011	1st State of the Map - Europe Conference	Vienna, Austria
