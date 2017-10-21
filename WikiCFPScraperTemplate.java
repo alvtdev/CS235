@@ -27,6 +27,8 @@ public class WikiCFPScraperTemplate {
 	       
 
 	        //first print column titles
+	        //having this statement within the for loop would cause it to be printed once
+	        //per page, which is not desired behavior
 	        writer.write("conference_acronym\tconference_name\tconference_location\n");
 	    
 	        
@@ -45,7 +47,8 @@ public class WikiCFPScraperTemplate {
 	        	//The vector will store acronym, name, dates, and locations
 	        	Vector data = new Vector();
 
-	        	//parse through the html code for all useable data
+	        	//parse through the html code for all useable text
+	        	//narrow down to specifically just the text in the table
 	        	Document doc = Jsoup.parse(content);
 	        	Elements table = doc.getElementsByTag("table");
 	        	Elements rows = table.select("tr");
@@ -57,7 +60,8 @@ public class WikiCFPScraperTemplate {
 	        	        Elements tds2 = tds.first().children().select("tr>td");
 	        	        //System.out.println(tds.first().children().select("tr>td"));
 	        	        for (int k =5; k < tds2.size(); k++) {
-	        	            //append data to vector, but ignore "Expired CFPs" text
+	        	        	//now that we have specific text from the table
+	        	            //append text to vector, but ignore "Expired CFPs" text
                             if (!(tds2.get(k).text().equals("Expired CFPs"))) {
                                 data.addElement(tds2.get(k).text());
                                 //System.out.println(tds2.get(k).text());
@@ -67,8 +71,12 @@ public class WikiCFPScraperTemplate {
 	        	}
 
 	        	//iterate through completed vector, only writing relevant information to file
+	        	//use counter to keep track of number of items printed
+	        	//if counter == 3, we've already printed acronym, name, and location
+	        	//thus print newline instead of tab
                 int itemCount = 0;
 	        	for (int k = 0; k < data.size(); k++){ 
+	        		//avoid printing every 2nd, 3rd, and 5th element in the vector
 	        	    if ( k % 6 != 2 && k % 6 != 3 && k % 6 != 5) {
                         //System.out.print(data.elementAt(k));
                         writer.write(data.elementAt(k).toString());
@@ -84,8 +92,8 @@ public class WikiCFPScraperTemplate {
                         }
                     } 
                 }
-
-                System.out.println("Page: " + i);
+                //output statement to tell what page the crawler is currently on.
+                //System.out.println("Page: " + i);
 
 	        	//YOUR CODE GOES HERE
 	        	//writer.write(content);
