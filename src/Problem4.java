@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Set;
 import java.util.StringTokenizer;
 
+import org.apache.hadoop.io.WritableUtils;
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
@@ -24,7 +25,6 @@ import org.apache.hadoop.util.GenericOptionsParser;
 import org.apache.hadoop.util.StringUtils;
 import org.apache.commons.io.FileUtils;
 import org.apache.hadoop.io.WritableComparable;
-import org.apache.hadoop.io.WritableUtils;
 
 public class Problem4 {
 
@@ -40,14 +40,14 @@ public class Problem4 {
           this.year = year;
         }
 
+        public void readFields(DataInput in) throws IOException {
+          this.city = WritableUtils.readString(in);
+          this.year = WritableUtils.readString(in);
+        }
+
         public void write(DataOutput out) throws IOException {
           WritableUtils.writeString(out, city);
           WritableUtils.writeString(out, year);
-        }
-
-        public void readFields(DataInput in) throws IOException {
-          this.city = WritableUtils.readString(in);
-          this.year = WritableUtils.readstring(in);
         }
 
         public int compareTo(CompKey ck) {
@@ -59,8 +59,9 @@ public class Problem4 {
         }
 
         @Override
+        //final string should be tab separated
         public String toString() {
-          return city.toString() + ":" + year.toString();
+          return city.toString() + "\t " + year.toString() + "\t" ;
         }
       }
 
@@ -131,7 +132,7 @@ public class Problem4 {
       //confArray[0] will be conference acronym
       //confArray[confArray.length-1] will be year
       String[] confArray = listArray[0].split(" ");
-      CompKey word = new CompKey(listArray[2], confArray[0]);
+      CompKey word = new CompKey(listArray[2], confArray[confArray.length-1]);
       context.write(word, one);
     }
   }
