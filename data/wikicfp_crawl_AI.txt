@@ -1,0 +1,401 @@
+conference_acronym	conference_name	conference_location
+ICAPM - Scopus, EI 2018	2018 8th International Conference on Applied Physics and Mathematics (ICAPM 2018)--Scopus, EI Compendex and ISI	Phuket Island, Thailand
+ICMSCE--Ei, Scopus 2018	2018 2nd International Conference on Mechatronics Systems and Control Engineering (ICMSCE 2018)--ACM, Ei Compendex, Scopus	Amsterdam, Netherland
+ICMM--Ei & Scopus 2018	2018 9th International Conference on Mechatronics and Manufacturing (ICMM 2018)--Ei Compendex and Scopus	Phuket Island, Thailand
+AAAI-ATSE 2018	AAAI-18 Workshop on artificial intelligence applied to assistive technologies and smart environments	New Orleans, Louisiana, USA
+ACM--ICRIS--Ei 2018	2018 International Conference on Robotics and Intelligent System (ICRIS 2018)--ACM, Ei Compendex, Scopus	Amsterdam, Netherland
+IEEE--ICCSSE--Ei & Scopus 2018	2018 The 4th International Conference on Control Science and Systems Engineering (ICCSSE 2018)--IEEE, Ei & Scopus	Wuhan, China
+ICMLSC - ACM - Ei 2018	ACM--2018 the 2nd International Conference on Machine Learning and Soft Computing (ICMLSC 2018)--Ei Compendex & Scopus	Phuoc Island, Vietnam
+ICSRT 2018--ACM, Ei Compendex 2018	2018 International Conference on Service Robotics Technologies (ICSRT 2018)--ACM, Ei Compendex	Chengdu, China
+ICOAR--Scopus 2018	2018 2nd International Conference on Automation and Robotics (ICOAR 2018)--Scopus	Maldives
+ICACR--Ei and Scopus 2017	2017 International Conference on Automation, Control and Robotics (ICACR 2017)--Ei Compendex and Scopus	Wuhan, China
+BioS 2017	3rd International Conference on Bioinformatics & Biosciences	Chennai, India
+CSTY 2017	3rd International Conference on Computer Science and Information Technology (CSTY-2017)	Chennai, India
+ICSS 2017	3rd International Conference on Software Security	Sydney, Australia
+AI 2017	3rd International Conference on Artificial Intelligence and Applications	Chennai, India
+NATP 2017	3rd International Conference on Natural Language Processing	Dubai, UAE
+SIGI 2017	3rd International Conference on Signal and Image Processing	Chennai, India
+ICRAI 2017	2017 International Conference on Robotics and Artificial Intelligence-ACM	Shanghai, China
+ICICC - Ei 2018	2018 International Conference on Intelligent Control and Computing (ICICC 2018)--Ei Compendex & Scopus	Manila, Philippines
+MACE - Ei 2018	The Second International Conference on Mechanical Automation and Control Engineering(MACE 2018)--Ei Compendex & Scopus	Manila, Philippines
+ICLR 2018	6th International Conference on Learning Representations	Vancouver, Canada
+IJMA 2017	International Journal of Multimedia & Its Applications -- ERA Indexed	N/A
+AEROIJ 2017	Aerospace Engineering: An International Journal	N/A
+AIAP 2018	5th International Conference on Artificial Intelligence and Applications	Zurich, Switzerland
+CSEIJ 2017	Computer Science & Engineering: An International Journal	N/A
+ESIJ 2017	Earth Sciences: an International Journal	N/A
+ELELIJ 2017	Electrical and Electronics Engineering: An International Journal	N/A
+MECHATROJ 2017	Mechatronics and Applications: An International Journal	N/A
+IJAIA 2017	International Journal of Artificial Intelligence & Applications	N/A
+IJCI 2017	International Journal on Cybernetics & Informatics	N/A
+MEIJ 2017	Mechanical Engineering: An International Journal	N/A
+JSE 2018	7th International Conference on Software Engineering and Applications	Dubai,UAE
+IJFLS 2017	International Journal of Fuzzy Logic Systems	N/A
+PBIJ 2017	Pharmaceutical and Biomedical sciences: An International Journal	N/A
+ITCS 2018	7th International Conference on Information Technology Convergence and Services	Dubai, UAE
+CCSEIT 2018	8th International Conference on Computer Science, Engineering and Information Technology	Zurich, Switzerland
+CAIJ 2017	Computer Applications: An International Journal	N/A
+ECDMO - Ei & Scopus 2018	2018 2nd European Conference on Design, Modeling and Optimization (ECDMO 2018)--EI Compendex, Scopus	Krakow, Poland
+ICBBB - Ei 2018	2018 8th International Conference on Bioscience, Biochemistry and Bioinformatics (ICBBB 2018)--Ei Compendex, Scopus and ISI	Tokyo, Japan
+ICRAE 2017	2017 2nd International Conference on Robotics and Automation Engineering (ICRAE 2017)--IEEE Xplore and Ei Compendex	Shanghai, China
+ICMRE - Ei & Scopus 2018	2018 4th International Conference on Mechatronics and Robotics Engineering (ICMRE 2018)--Ei Compendex & Scopus	Valenciennes, France
+ICCTD--EI, Scopus 2018	2018 9th International Conference on Computer Technologies and Development (ICCTD 2018)--EI Compendex, Scopus	Istanbul, Turkey
+Ei - ICSCA - ACM 2018	ACM--2018 7th International Conference on Software and Computer Applications (ICSCA 2018)--Ei Compendex, Scopus and ISI	Kuantan, Malaysia
+ICVIP - Ei 2017	2017 International Conference on Video and Image Processing (ICVIP 2017)--Ei and Scopus	Singapore
+Special issue on AI 2017	Informatica special anniversary issue on artificial intelligence	N/A
+DSCI 2018	Special Session on Data Science and Computational Intelligence (at The 10th Asian Conference on Intelligent Information and Database Systems)	Dong Hoi City, Vietnam
+IJGTT 2017	International Journal of Game Theory and Technology	N/A
+MSEJ 2017	Advances in Materials Science and Engineering: An International Journal	N/A
+EI-CCEAI 2018	EI/SCOPUS-2018 2nd International Conference on Control Engineering and Artificial Intelligence (CCEAI 2018)	Boracay, Philipines
+BigData4SmartEnergy 2018	The First International Workshop on Big Data Analysis for Smart Energy	Shanghai, China
+ICBCB 2018--Ei, Scopus 2018	2018 6th International Conference on Bioinformatics and Computational Biology (ICBCB 2018)--Ei Compendex, Scopus and ISI	Chengdu, China
+ACM--ICCAI 2018--Ei, Scopus 2018	ACM--2018 International Conference on Computing and Artificial Intelligence (ICCAI 2018)--Ei Compendex and Scopus	Chengdu, China
+ICMCR - Ei & Scopus 2018	2018 International Conference on Mechatronics, Control and Robotics (ICMCR 2018)--EI Compendex, Scopus	Ho Chi Minh, Vietnam
+AI4Health 2018	International Workshop on Artificial Intelligence for Health	Funchal, Madeira (Portugal)
+IEEE--ICICT--Ei, Scopus 2018	2018 International Conference on Information and Computer Technologies (ICICT 2018)--Ei & Scopus	DeKalb,IL,USA
+MPREF 2018	11th Multidisciplinary Workshop on Advances in Preference Handling (M-PREF)	New Orleans, Louisiana, USA
+ICMLC - Ei 2018	2018 10th International Conference on Machine Learning and Computing (ICMLC 2018)--ACM, Ei Compendex and Scopus	Macau, China
+ICAMS 2018	2018 5th International Conference on Advances and Management Sciences (ICAMS 2018)	Torino, Italy
+Ei - ICBCT 2018	2018 2nd International Conference on Bioinformatics and Computing Technologies (ICBCT 2018)--Ei Compendex	Hanoi, Vietnam
+ACM--ICGDA--Ei, Scopus 2018	ACM--2018 the International Conference on Geoinformatics and Data Analysis (ICGDA 2018)--Ei, ISI and Scopus	Prague, Czech Republic
+ICIIT - Ei & Scopus 2018	2018 International Conference on Intelligent Information Technology (ICIIT 2018)--Ei Compendex, Scopus and ISI	Hanoi, Vietnam
+Ei - ICCAE 2018	2018 10th International Conference on Computer and Automation Engineering (ICCAE 2018)--Ei Compendex and Scopus	Brisbane, Australia
+KBCOM 2018	1st Workshop on Knowledge Base Construction, Reasoning and Mining (KBCOM) 2018	Los Angeles, California
+AAMAS 2018	International Conference on Autonomous Agents and Multiagent Systems (AAMAS-18)	Stockholm
+ICCRI--EI, Scopus 2018	2018 International Conference on Control, Robotics and Informatics (ICCRI 2018)--EI Compendex, Scopus	Kuala Lumpur, Malaysia
+ICPRAI 2018	International Conference on Pattern Recognition and Artificial Intelligence	Montreal, Quebec
+ICIAS--Ei 2018	2018 IEEE International Conference on Intelligent Autonomous Systems (ICIAS 2018)--Ei Compendex and Scopus	Singapore
+CVPR 2018	Computer Vision and Pattern Recognition	SALT LAKE CITY, UTAH
+ICIIC--IEEE Xplore, Ei 2018	2018 International Conference on Integrated Intelligent Computing (ICIIC 2018)--IEEE Xplore, Ei Compendex and Scopus	Singapore
+Transhumanism 2017	Organic Machines/Engineered Humans: (Re)Defining Humanity	N/A
+ACM--ICSSE--Ei, Scopus 2018	ACM--2018 the International Conference on Software and Services Engineering(ICSSE 2018)--Ei, ISI and Scopus	Prague, Czech Republic
+ICCMS - Ei & Scopus 2018	ACM--The 10th International Conference on Computer Modeling and Simulation (ICCMS 2018)	Sydney, Australia
+ACM - ICIAI 2018	ACM--2018 2nd International Conference on Innovation in Artificial Intelligence (ICIAI 2018)--Ei Compendex, Scopus, and ISI	Shanghai, China
+ICICA 2018	The 7th International Conference on Intelligent Computing and Applications (ICICA 2018)	Sydney, Australia
+ICAISC 2018	International Conference on Artificial Intelligence and Soft Computing	Zakopane, POLAND
+IEEE-ICCAR-Ei & SCOPUS 2018	(IEEE-ICCAR 2018) 2018 The 4th International Conference on Control, Automation and Robotics--Ei Compendex & SCOPUS	Auckland, New Zealand
+ISMSI--Ei Compendex, Scopus and ISI 2018	2018 2nd International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (ISMSI 2018)--Ei Compendex, Scopus and ISI	Phuket, Thailand
+ICVR-Ei 2018	2018 4th International Conference on Virtual Reality (ICVR 2018)--Ei Compendex and Scopus	Hong Kong
+SLIE 2018	Semantic, Logics, Information Extraction and AI	Melbourne, Florida
+AIHealth@FLAIRS 2018	FLAIRS 2018 Special Track on Artificial Intelligence in Healthcare Informatics	Melbourne, FL, USA
+JOE_ASPBI 2018	Journal of Engineering_Advanced Signal Processing in Biomedical Imaging	N/A
+ICIGP-Ei 2018	2018 International Conference on Image and Graphics Processing (ICIGP 2018)--Ei Compendex and Scopus	Hong Kong
+NIC 2018	Workshop on Nature Inspired Computing	Naples, Italy
+CSPA 2018	14th IEEE Colloquium on Signal Processing and its Applications (CSPA 2018)	MALAYSIA
+ICGHIT 2018	6Th ICGHIT - Extended Papers Published in LNEE/SCI/Ei Compendex/Scopus Journals	Chiang Mai, Thailand
+ICDIS 2018	2018 First International Conference on Data Intelligence and Security	South Padre Island, Texas, USA
+FoIKS 2018	10th International Symposium on Foundations of Information and Knowledge Systems	Budapest, Hungary
+ISCSAI 2017	2017 International Symposium on Computer Science and Artificial Intelligence	Shenzhen
+UKAIS 2018	The 23rd UK Academy for Information Systems (UKAIS) International Conference	University of Oxford, Oxford, UK
+IEEE--ICCCBDA--Ei and Scopus 2018	2018 the 3rd IEEE International Conference on Cloud Computing and Big Data Analysis (ICCCBDA 2018)--Ei Compendex and Scopus	Chengdu, China
+ICMAI--EI Compendex and Scopus 2018	2018 International Conference on Mathematics and Artificial Intelligence (ICMAI 2018)--EI Compendex and Scopus	Chengdu, China
+ICISS--Ei Compendex and Scopus 2018	2018 International Conference on Information Science and System (ICISS 2018)--Ei Compendex and Scopus	Jeju Island, South Korea
+ICRIC--Ei Compendex and Scopus 2018	The 2018 International Conference on Robotics and Intelligent Control (ICRIC 2018)--Ei Compendex and Scopus	Nagoya, Japan
+CPAIOR 2018	15th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research	Delft, The Netherlands
+ICCRE--IEEE, Ei 2018	2018 IEEE 3rd International Conference on Control and Robotics Engineering (ICCRE 2018)--IEEE Xplore and Ei Compendex	Nagoya, Japan
+ICCCS--Ei and Scopus 2018	2018 3rd International Conference on Computer and Communication Systems (ICCCS 2018)--Ei Compendex and Scopus	Nagoya, Japan
+RADIO AI 2018	RADIO AI - An Invitation for AI Educators and Professionals to Reach the Public	www.radioai.net
+SMART 2017	Scientific Methods in Academic Research and Teaching	Timisoara, Romania
+ACM--ICMSR--Ei, Scopus and ISI 2018	2018 International Conference on Mechatronic Systems and Robots (ICMSR 2018)--ACM, Ei, Scopus and ISI	Singapore
+CIAALS 2018	Workshop on Computational Intelligence in Ambient Assisted Living Systems	Porto, Portugal
+ICMEAE--Ei and Scopus 2018	2018 5th International Conference on Mechatronics, Electronics and Automation Engineering (ICMEAE 2018)--Ei Compendex and Scopus	Nagoya, Japan
+IPMU 2018	17th Information Processing and Management of Uncertainty in Knowledge-Based Systems Conference	Cádiz- Spain
+ICDIP-SPIE 2018	ICDIP 2018 The 10th International Conference on Digital Image Processing--Ei Compendex, Scopus and CPCI	Shanghai, China
+ICUASA 2018	2018 International Conference on Umanned Aerial Systems and Aerospace(ICUASA 2018)	Shanghai
+ICINT--EI, Scopus 2018	2018 3rd International Conference on Information and Network Technologies (ICINT 2018)--EI Compendex, Scopus	Osaka, Japan
+N/A 2018	Special Issue on Granular Computing in Financial Engineering, Journal of Granular Computing	N/A
+IEEE CIM SI 2018	IEEE Computational Intelligence Magazine. Special Issue on Computational Intelligence in Finance and Economics	N/A
+ICMRA--Ei & Scopus 2018	2018 International Conference on Mechatronics,Robotics and Automation (ICMRA 2018)--Ei & Scopus	Hefei, China
+ICMVA--EI Compendex, Scopus 2018	2018 The International Conference on Machine Vision and Applications (ICMVA 2018)--EI Compendex, Scopus	Singapore
+Ei - ICBDA - IEEE 2018	2018 IEEE 3rd International Conference on Big Data Analysis (ICBDA 2018)--IEEE Xplore and Ei Compendex	Shanghai, China
+ICFCC--Ei & Scopus 2018	2018 The 10th International Conference on Future Computer and Communication (ICFCC 2018)--Ei & Scopus	Singapore
+ParLearning 2018	The 7th International Workshop on Parallel and Distributed Computing for Large Scale Machine Learning and Big Data Analytics	Vancouver, Canada
+ISNN 2018	15th International Symposium on Neural Networks	Minsk, Belarus
+ICAISE--IEEE, EI and Scopus 2018	2018 International Conference on Artificial Intelligence and Software Engineering (ICAISE 2018)--IEEE, EI Compendex and Scopus	Chengdu, China
+AIAI 2018	14th Artificial Intelligence Applications and Innovations 2018	Rhodes island Greece
+ICMLT--Ei and Scopus 2018	2018 International Conference on Machine Learning Technologies (ICMLT 2018)--Ei Compendex and Scopus	Jinan, China
+SPIE--IWPR--Ei Compendex, Scopus 2018	SPIE--2018 the 3rd International Workshop on Pattern Recognition (IWPR 2018)--Ei, Scopus and ISI	Jinan, China
+EAIS 2018	Evolving and Adaptive Intelligent Systems 2018	island of Rhodes GREECE
+ITS 2018	The 14th International Conference on Intelligent Tutoring Systems	Montreal, Canada
+ITS 2018	Intelligent Tutoring Systems	Montreal, Canada
+GECCO 2018	Genetic and Evolutionary Computation Conference	Kyoto, Japan
+IJCAI 2018	International Joint Conferences on Artificial Intelligence Organization	Stockholm, Sweden
+ISASE-MAICS 2018	The 4th International Symposium on Affective Science and Engineering and the 29th Modern Artificial Intelligence and Cognitive Science Conference	Spokane, WA, USA
+DCAI 2018	15th International Conference on Distributed Computing and Artificial Intelligence	Toledo (Spain)
+ICMSC - Ei 2018	IEEE-ICMSC 2018-International Conference on Mechanical, System and Control Engineering--Ei Compendex & Scopus	Moscow, Russia
+AIMS 2018	The 7th International Conference on AI and Mobile Services	Seattle, USA
+ACL 2018	56th Annual Meeting of the Association for Computational Linguistics	Melbourne, Australia
+BigData Congress 2018	The 7th International Congress on Big Data	Seattle, USA
+INISTA 2018	IEEE International Conference on Innovations in Intelligent SysTems and Applications	Thessaloniki, Greece
+ECCV 2018	European Conference on Computer Vision	Munich, Germany
+CIG 2018	2018 IEEE Conference on Computational Intelligence and Games	Maastricht, the Netherlands
+JDIQ-CDMD 2019	Special issue of the ACM Journal of Data and Information Quality (ACM JDIQ) on Combating Digital Misinformation and Disinformation	N/A
+MESS 2018	Metaheuristics Summer School	Taormina-Sicily, Italy
+ICCBR 2018	International Conference on Case-Based Reasoning	Stockholm, Sweden
+KES 2018 PR-TAC 2018	KES Invited Session on Pattern Recognition: Trends, Applications and Challenges	Belgrade, Serbia
+ICISIP 2018	The 6th IIAE International Conference on Intelligent Systems and Image Processing 2018	Matsue, Japan
+ACIIDS 2018	10th Asian Conference on Intelligent Information and Database Systems	Dong Hoi City, Vietnam
+StoryCase 2012	ICCBR-12 Workshop on Stories, Episodes, and Cases (StoryCase)	Lyon, France
+CLOSER 2018	8th International Conference on Cloud Computing and Services Science	Funchal, Madeira, Portugal
+CSAI - Ei &Scopus 2017	2017 International Conference on Computer Science and Artificial Intelligence (CSAI 2017)--Ei Compendex & Scopus	Kalbis Institute, Jakarta, Indonesia
+IUI 2017	Intelligent User Interfaces	Limassol, Cyprus
+AISTATS 2018	The 21st International Conference on Artificial Intelligence and Statistics	Playa Blanca, Lanzarote
+ISICS 2018	International Symposium on Intelligent Computing Systems - ISICS 2018	Merida, Mexico
+ARIN 2017	3rd International Conference on Artificial Intelligence	Dubai, UAE
+SAI 2017	6 th International Conference on Soft Computing, Artificial Intelligence and Applications	Sydney,Australia
+CIIP 2017	Computational Intelligence in Image Processing 2017 (Mathematical Problems in Engineering IF (0.644)	N/A
+ACM--ICMCE 2017	ACM--2017 6th International Conference on Mechatronics and Control Engineering (ICMCE 2017)--Ei Compendex, ISI Web of Science and Scopus	St. Petersburg, Russia
+ICROM-Ei 2017	Ei--2017 the International Conference on Robotics and Electromechanical (ICRoM 2017)--Scopus	Hong Kong
+WoLGA 2018	Workshop on Logical Geometry and its Applications	Vichy, France
+ICMME - Ei 2017	2017 The 4th International Conference on Mechatronics and Mechanical Engineering (ICMME 2017)--Ei Compendex and Scopus	Kuala Lumpur, Malaysia
+BRAIN 2017	Broad Research in Artificial Intelligence and Neuroscience	Bacau
+KRR@SAC 2018	KRR@SAC 2018 : Knowledge Representation and Reasoning (track of the 33rd ACM/SIGAPP Symposium On Applied Computing)	Pau, France
+ICSC 2018	12th IEEE International Conference on Semantic Computing (ICSC 2018)	Laguna Hills, CA
+ICBSB - Ei 2017	2017 2nd International Conference on Biomedical Signal and Bioinformatics (ICBSB 2017)--Ei Compendex and Scopus	AUT University, Auckland, New Zealand
+ICSPS - Ei 2017	2017 9th International Conference on Signal Processing Systems (ICSPS 2017)--Ei Compendex and Scopus	AUT University, Auckland, New Zealand
+RiTA 2017	The 5th International Conference on Robot Intelligence Technology and Applications	KAIST, Daejeon, KOREA
+ICITDA 2017	International Conference on Information Technology and Digital Applications	Yogyakarta, Indonesia
+ICMERR 2017	2017 2nd International Conference on Mechanical Engineering and Robotics Research (ICMERR 2017)-EI Compendex, Scopus	Paris, France
+ACMLC--EI Compendex, Scopus 2017	2017 Asia Conference on Machine Learning and Computing (ACMLC 2017)--EI Compendex, Scopus	Singapore
+ICBRA - Ei 2017	2017 International Conference on Bioinformatics Research and Applications (ICBRA 2017)--Ei Compendex, Scopus and ISI	Barcelona, Spain
+MedPRAI 2018	The Second Mediterranean Conference on Pattern Recognition and Artificial Intelligence (MedPRAI-2018)	Rabat, Morocco
+ICCCB - Ei 2017	2017 International Conference on Computational Chemistry and Biology (ICCCB 2017)--EI Compendex, Scopus	Barcelona, Spain
+WCICSS 2017	The World Congress on Industrial Control Systems Security	University of Cambridge
+KARE 2017	KARE 2017 - The 9th International Workshop on Knowledge Acquisition Reuse & Evaluation	Jaipur, India
+CSBio 2017	The 8th International Conference on Computational Systems-Biology and Bioinformatics (CSBio 2017)	NhaTrang, Vietnam
+IEEE ITNEC 2017	2017 IEEE 2nd Information Technology,Networking,Electronic and Automation Control Conference	ChengDu,China
+IEEE - ISCMI 2017	2017 4th Intl. Conference on Soft Computing & Machine Intelligence (ISCMI 2017)--IEEE Xplore, Ei Compendex	Republic of Mauritius
+ICBBE - Ei 2017	2017 4th International Conference on Biomedical and Bioinformatics Engineering (ICBBE 2017) - ACM and Ei Compendex	Seoul, South Korea
+ICBEF 2017	2017 International Conference on Biometric Engineering and Forensics (ICBEF 2017)-Ei Compendex, Scopus and ISI	Seoul, South Korea
+CRoNe 2017	3rd Congress on Robotics and Neuroscience	Valparaíso, Chile
+ICMV 2017	2017 The 10th International Conference on Machine Vision (ICMV 2017) - SPIE	Vienna, Austria
+ACM SAC-COCO 2018	Cognitive Computing Track @ The 33nd ACM Symposium on Applied Computing - ACM SAC 2018	Pau, France
+SoICT 2017	The Eighth International Symposium on Information and Communication Technology	NhaTrang, Vietnam
+TAAI 2017	The 22nd Conference on Technologies and Applications of Artificial Intelligence [Deadline Extended]	Taipei, Taiwan
+AAAI 2018	The Thirty-Second AAAI Conference on Artificial Intelligence	New Orleans, Lousiana, USA
+PRASA-RobMech 2017	Symposium of the Pattern Recognition Association of South Africa (PRASA) and Conference of Robotics and Mechatronics (RobMech)	Central University of Technology, RSA
+MVIP 2017	The 10th Iranian Conference on Machine Vision and Image Processing	Isfahan, Iran
+LKE 2017	5th International Symposium on Language & Knowledge Engineering	Puebla, Mexico
+CORE 2017	CORE 2017 (17th International Congress on Computer Science)	Mexico City
+AI*AAL.it 2017	Third Italian Workshop on Artificial Intelligence for Ambient Assisted Living	Bari - Italy
+it 2017	Special issue on Human Computation of 'it - Information Technology'	N/A
+ICOAI 2017	2017 4th International Conference on Artificial Intelligence (ICOAI 2017)	Florence, Italy
+ARCS (SITIS) 2017	International Workshop on Advances in Robotics and Cognitive Systems (co-located with SITIS2017)	Jaipur, India
+AIVR 2017	1st Workshop on Artificial Intelligence Meets Virtual and Augmented Realities (AI-VR) in conjuction with SIGGRAPH Asia	Bangkok, Thailand
+ICCMA - Ei 2017	2017 The 5th International conference on Control, Mechatronics and Automation (ICCMA 2017)--Ei Compendex and Scopus	University of Alberta, Edmonton, Canada
+ICMAM - Ei 2017	2017 4th International Conference on Mechatronics, Automation and Manufacturing (ICMAM 2017)--EI Compendex, Scopus	Phuket, Thailand
+MIKE 2017	Mining Intelligence and Knowledge Exploration, The Fifth International Conference	IDRBT, Hyderabad, India
+ICCBB 2017	2017 International Conference on Computational Biology and Bioinformatics (ICCBB 2017)--Ei Compendex, Scopus and CPCI	New Jersey, USA
+IS 2017	International Conference “Interactive Systems: Problems of Human-Computer Interaction”	Ulyanovsk, Russia
+MECN 2017	3rd International Conference on Mechanical Engineering	Dubai, UAE
+SoDeLIA 2017	Special Session on Deep Learning and Its Applications	Brunei
+WAAISC 2017	1st Workshop on Applications of Artificial Intelligence in Smart Cities	Boston, MA, USA
+ICTCC 2017	3rd International Conference on NaTure of Computation and Communication	Tam Ky City, Vietnam
+ICCASA 2017	6th EAI International Conference on Context-Aware Systems and Applications	Tam Ky City, Vietnam
+IES 2017	The 21st Asia Pacific Symposium on Intelligent and Evolutionary Systems (IES 2017)	Hanoi, Vietnam
+ACML 2017	The 9th Asian Conference on Machine Learning	Seoul, Korea
+ICIIP 2017	6th International Conference on Intelligent Information Processing(ICIIP 2017)	London, UK
+AIC 2017	5th International Workshop on Artificial Intelligence and Cognition	Larnaca, Cyprus
+ICICT 2017	CFP - The IEEE International Conference ICICT at India, Due: 4 Aug 2017	India
+ICPET 2017	International Conference on Promising Electronic Technologies 2017	Deir El-Balah, Palestine
+FICC 2018	The FICC 2018 at Singapore, Paper Submission Due: August 1st 2017	Singapore
+RA 2017	The 18th IASTED International Conference on Robotics and Applications	Cambridge, Massachusetts, USA
+IEEE Bigcomp 2018	2018 IEEE International Conference on Big Data and Smart Computing	ShangHai, China
+ICSR 2017	The 9th International Conference on Social Robotics	Tsukuba, Japan
+ICAART 2018	10th International Conference on Agents and Artificial Intelligence	Funchal, Madeira, Portugal
+ICPRAM 2018	7th International Conference on Pattern Recognition Applications and Methods	Funchal, Madeira, Portugal
+RSL-IJCS 2017	COGNITION AND COMPUTATION	N/A
+LAWCN 2017	Latin-American Workshop on Computational Neuroscience	Porto Alegre, RS, Brazil
+SafeThings 2017	ACM Workshop on the Internet of Safe Things	Delft, The Netherlands
+K-CAP 2017	The Ninth International Conference on Knowledge Capture	Austin, Texas, USA
+WOMoCoE 2017	2nd International Workshop on Ontology Modularity, Contextuality, and Evolution	Vienna, Austria
+ISWC poster&demo 2017	ISWC 2017 : 16th International Semantic Web Conference (poster and demo session)	Vienna
+ICOAS - EI 2017	2017 2nd International Conference on Automation Sciences (ICOAS 2017)--EI Compendex, Scopus	Phnom Penh, Cambodia
+AI Safety and Security 2017	Artificial Intelligence Safety and Security. Edited Book. Call for Book Chapters.	N/A
+GCAI 2017	The 3rd Global Conference on Artificial Intelligence (GCAI 2017), Miami, USA, 18-22 October 2017	Miami, USA
+ICBEB 2017	2017 International Conference on Biomedical Engineering and Bioinformatics (ICBEB 2017)--CPCI, Ei Compendex and Scopus	Bangkok, Thailand
+ICIBB - Ei 2017	2017 International Conference on Innovations in Biometrics and Biostatistics (ICIBB 2017)--CPCI, Ei Compendex and Scopus	Bangkok, Thailand
+ICRCA - Ei 2017	2017 The 2nd International Conference on Robotics, Control and Automation (ICRCA 2017)--Ei Compendex and Scopus	Kitakyushu, Japan
+CAIIT 2017	2017 International Conference on Artificial Intelligence and Information Technology (CAIIT 2017)--Ei&Scopus	Hong Kong
+MIG 2017	ACM SIGGRAPH Conference on Motion in Games	Barcelona Spain
+Algorithmic news 2018	ALGORITHMS, AUTOMATION, AND NEWS: CAPABILITIES, CASES, AND CONSEQUENCES	Munich, Germany
+SPIE - ICRMV 2017	2017 The 2nd International Conference on Robotics and Machine Vision (ICRMV 2017)--Ei Compendex and Scopus	Kitakyushu, Japan
+DT 2017	Deduktionstreffen 2017	TU Dortmund, Germany
+CISC 2017	1st Workshop on Computational Intelligence & Soft Computing	Portland, Oregon, USA
+MIWAI 2017	The 11th Multi-disciplinary International Workshop on Artificial Intelligence	Brunei
+DEAs 2017	Data Enabled Applications 2017	Universiti Teknologi Brunei
+Robot 2017	Third Iberian Robotics Conference	Seville
+CSI 2017	Computer Society Of Iran	Shiraz
+AISP-2017	Artificial Intelligence and Signal Processing	Shiraz
+IEEE ITOEC 2017	2017 IEEE 3rd Information Technology and Mechatronics Engineering Conference	Chongqing
+IEEE--ICAVE 2017	2017 International Conference on Automotive and Vehicle Engineering (ICAVE 2017)-IEEE Xplore and Ei Compendex	Singapore
+ICITE 2017	2017 2nd International Conference on Intelligent Transportation Engineering (ICITE 2017)-IEEE Xplore and Ei Compendex	Singapore
+ICCIA 2017	2017 the 2nd IEEE International Conference on Computational Intelligence and Applications	Beijing, China
+IEEE CISDA 2017	2017 IEEE Symposium on Computational Intelligence for Security and Defense Applications	Honolulu, Hawaii, USA
+ISAIR 2017	The 2nd International Symposium on Artificial Intelligence and Robotics 2017	Kitakyushu, Japan
+LPKM 2017	International Workshop on Language Processing and Knowledge Management	Kerkenah Sfax Tunisia
+ICIS 2017	The Second International Conference on Intelligence Science	Shanghai, China
+AIAAT 2017	2017 International Conference on Artificial Intelligence Applications and Technologies(AIAAT 2017)	Hawaii, USA
+CICLOPS 2017	15th International Colloquium on Implementation of Constraint and LOgic Programming Systems	Melbourne, Australia
+KDWEB 2017	3rd International Workshop on Knowledge Discovery on the Web	Cagliari, Italy
+CEEC 2017	9th Computer Science & Electronic Engineering Conference	Colchester, UK
+RecSysKTL 2017	Workshop on Intelligent Recommender Systems by Knowledge Transfer and Learning	Como, Italy
+BFAL 2017	International Conference on Brain Function Assessment in Learning	Patras
+ACLing 2017	The Third International Conference on Arabic Computational Linguistics	Dubai
+ISDM 2017	ISDM@INTELLI 2017 : Intelligent Support for Decision Making at INTELLI 2017	Nice, France
+IJCAI - CAI4HCD 2017	IJCAI 2017 WORKSHOP ON: COGNITION AND ARTIFICIAL INTELLIGENCE FOR HUMAN-CENTRED DESIGN	Melbourne
+SYNASC 2017	19th International Symposium on Symbolic and Numeric Algorithms for Scientific Computing	Timisoara
+PLP 2017	Probabilistic logic programming 2017	Orléans - France
+IEEE--ISCBI 2017	ISCBI 2017 (5th International Symposium on Computational and Business Intelligence)-IEEE Xplore and Ei Compendex	Dubai, UAE
+ICONIP 2017	International Conference on Neural Information Processing	Guangzhou, China
+ICDME - IOP 2017	2nd International Conference on Design and Manufacturing Engineering (ICDME 2017)--Ei Compendex	Guangzhou，China
+ICISIP 2017	The 5th IIAE International Conference on Intelligent Systems and Image Processing 2017	Hawaii, USA
+CILC 2017	32nd Italian Conference on Computational Logic	Naples
+DS 2017	The 20th International Conference on Discovery Science	Kyoto, Japan
+LL@ICML 2017	Workshop on Lifelong Learning: A Reinforcement Learning Approach @ICML 2017	Sydney, Australia
+AI*IA 2017	16th International Conference of the Italian Association for Artificial Intelligence	Bari
+ISSEA 2017	Special Session on Intelligent Systems and Software Engineering Advances	Druskininkai, Lithuania
+SocInf 2017	3rd International Workshop on Social Influence Analysis	Melbourne, Australia
+7th ICITCS 2017	iCatse International Conference on IT Convergence and Security	Seoul Korea
+DX 2017	28th International Workshop on Principles of Diagnosis	Brescia, Italy
+WAAE 2017	IJCAI-17 Workshop on AI Applications in E-Commerce	Melbourne, Australia
+IEEE--ICSGSC 2017	2017 IEEE International Conference on Smart Grid and Smart Cities (ICSGSC 2017)--IEEE Xplore and Ei Compendex	Singapore
+CRC 2017	2nd International Conference on Cybernetics, Robotics and Control	Chengdu, China
+SML 2017	IJCAI Workshop on Semantic Machine Learning (SML 2017)	Melbourne, Australia
+CCKS 2017	China Conference on Knowledge Graph and Semantic Computing (CCKS2017)	Cheng Du, China
+ICAIR 2017	2017 2nd International Conference on Artificial Intelligence and Robotics (ICAIR 2017)	Prague
+WISTIPS 2017	INFORMATION AND SOFTWARE TECHNOLOGIES FOR INTELLIGENT POWER SYSTEMS	Druskininkai, Lithuania
+BRACIS 2017	6th Brazilian Conference on Intelligent Systems	Uberlandia, MG, Brazil
+RAAI 2017	1st Conference on Recent Advances in Artificial Intelligence (RAAI)	Bucharest
+【Ei】-ICAIR 2017	2017 2nd International Conference on Artificial Intelligence and Robotics (ICAIR 2017)	Prague
+NIPS 2017	The Thirty-first Annual Conference on Neural Information Processing Systems	Long Beach, CA, USA
+ICCSE 2017	The 2017 International Conference on Crowd Science and Engineering	Tsinghua University, Beijing, China
+ISWC 2017	16th International Semantic Web Conference	Vienna, Austria
+IWAKEHC 2017	The International Workshop on Applied Knowledge Engineering to Healthcare	Vienna House Diplomat Hotel, Prague
+SR 2017	Fifth International Workshop on Strategic Reasoning	University of Liverpool, UK
+ICTTE 2017	6th International Conference on Transportation and Traffic Engineering -Ei,ISI and Scopus	Hong Kong
+LACATODA - 2017	Linguistic and Cognitive Approaches to Dialog Agents (IJCAI Workshop)	Melbourne
+ICIII 2017	ICIII 2017 - 2017 5th International Conference on Industrial and Intelligent Information	Krakow, Poland
+MEDS 2017	3rd International Conference on Medical Sciences	Chennai, India
+AIAP 2017	4th International Conference on Artificial Intelligence and Applications	Vienna, Austria
+AIFZ 2017	3rd International Conference on Artificial Intelligence and Fuzzy Logic Systems	Dubai, UAE
+MECH 2017	4th International Conference on Mechanical Engineering	Vienna, Austria
+CSITY 2017	3rd International Conference on Computer Science, Engineering and Information Technology	Dubai, UAE
+CCSEIT 2017	7th International Conference on Computer Science, Engineering and Information Technology	Vienna, Austria
+ITCCMA 2017	Fourth International Conference on Information Technology, Control, Chaos, Modeling and Applications	Dubai, UAE
+ICCST 2017	The 51st International Carnahan Conference on Security Technology	Madrid
+TIME 2017	24th International Symposium on Temporal Representation and Reasoning	Mons, Belgium
+KDH@IJCAI 2017	The 2nd International Workshop on Knowledge Discovery in Healthcare Data (KDH) - aligning with IJCAI 2017	Melbourne, Australia
+WCO 2017	10th International Workshop on Computational Optimization	Prague, Czech Republic
+MENDEL SCC 2017	MENDEL 2017: 23rd International Conference on Soft Computing	Brno, Czech Republic
+AIMA 2017	7th International Workshop on Artificial Intelligence in Medical Applications	Prague, Czech Republic
+FedCSIS 2017	2017 Federated Conference on Computer Science and Information Systems	Prague, Czech Republic
+SASO 2017	The Eleventh IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO 2017)	University of Arizona, Tucson, AZ
+AAIA 2017	12th International Symposium Advances in Artificial Intelligence and Applications	Prague, Czech Republic
+AIMaViG 2017	3rd International Workshop on Artificial Intelligence in Machine Vision and Graphics	Prague, Czech Republic
+AIRIM 2017	2nd International Workshop on AI aspects of Reasoning, Information, and Memory	Prague, Czech Republic
+ASIR 2017	7th International Workshop on Advances in Semantic Information Retrieval	Prague, Czech Republic
+COREDEMA 2017	3rd International Workshop on Conflict Resolution in Decision Making	Melbourne, Austrailia
+SemDial (SaarDial) 2017	The 21st SemDial Workshop on the Semantics and Pragmatics of Dialogue	Saarbrücken
+KI 2017	The 40th German Conference on Artificial Intelligence	Dortmund, Germany
+ICIIP 2018	【ACM-ICPS】2018 3rd International Conference on Intelligent Information Processing	Guilin
+ILP 2017	Inductive Logic Programming conference	Orléans - France
+SAT 2017	20th International Conference on Theory and Applications of Satisfiability Testing	Melbourne, Australia
+AIMS 2017	The 6th IEEE International Conference on AI & Mobile Services	Honolulu, Hawaii, USA
+KES PR TAC 2017	Extended Deadline KES 2017 Session on Pattern Recognition: Trends, Applications and Challenges	Marseille, France
+FTC 2017	FTC 2017 - Future Technologies Conference 2017	Vancouver, BC, Canada
+CAnimAI 2017	CAnimAI: Computer Animation and Artificial Intelligence	Arras - France
+IDAP 2017	International Artificial Intelligence and Data Processing Symposium	Malatya, Turkey
+BASC 2017	International Workshop on Big Data Applications for Smart Cities	San Francisco, CA, USA
+DSCI 2017	CFP deadline Apr 28 23:59 GMT, Data Science and Computational Intelligence@San Francisco, USA	San Francisco
+AGI 2017	Artificial General Intelligence	Melbourne, Australia
+ISS for IISA Conference 2017	Intelligent Secured Systems track	Cyprus
+VOCVLC/CVPR 2017	International Workshop on Visual Odometry and Computer Vision Applications Based on Location Clues	Hawaii
+EANN 2017	18th Engineering Applications of Neural Networks 2017	Athens, Greece
+Canadian AI Industry Track 2017	AI in industry, challenges in real life products	Lister Centre, University of Alberta, Ed
+ADBIS 2017	21st European Conference on Advances in Databases and Information Systems	Hilton Hotel Cyprus, Nicosia
+AITS@EPIA 2017	Artificial Intelligence in Transportation Systems	Porto
+MASTA@EPIA 2017	Multi-Agent Systems: Theory and Applications (Thematic Track at EPIA2017)	Porto
+WISA 2017	9th Workshop on Intelligent Systems and Applications	Lisbon, Portugal
+SLIOIA/ASAI 2017	Latin American Symposium on Operations Research & Artificial Intelligence - Argentine Symposium on Artificial Intelligence	Córdoba, Argentina
+ICOCB - EI 2017	2017 International Conference on Computational Biology (ICOCB 2017)-EI Compendex, Scopus, and ISI CPCS	Jakarta, Indonesia
+ICCIDS 2017	IEEE International Conference on Computational Intelligence in Data Science	Chennai
+HSI 2017	The 10th International Conference on Human System Interaction	Ulsan, Korea
+PReMI 2017	Seventh International Conference on Pattern Recognition and Machine Intelligence	Kolkata, India
+AI 2017	30th Australasian Joint Conference on Artificial Intelligence	Melbourne, Australia
+BCI 2017	8th Balkan Conference in Informatics	Skopje
+EPIA 2017	EPIA Conference on Artificial Intelligence -- Journal Track	Porto
+BCI for Neurorobotics 2017	Brain Computer Interface Systems for Neurorobotics: Methods and Applications	N/A
+SISSY 2017	4th International Workshop on Self-Improving System Integration	Columbus, Ohio, USA
+iSAI-NLP 2017	The Joint International Symposium on Artificial Intelligence and Natural Language Processing	Hua-Hin, Prachuapkirikan,Thailand
+TSD 2017	20th International Conference on Text, Speech and Dialogue	Prague
+RIS 2017	The International Workshop on Reasoning in Smart-Homes	Exeter, UK
+GECCOsws 2017	GECCO Student Workshop	Berlin, Germany
+ICBBT- Ei 2017	2017 9th International Conference on Bioinformatics and Biomedical Technology (ICBBT 2017)--Ei Compendex and Scopus	Lisbon, Portugal
+AHS 2017	Adaptive Hardware and Systems	Caltech, Pasadena, CA, USA
+ICCBR 2017	International Conference on Case-Based Reasoning	Trondheim, Norway
+MUME 2017	The 5th International Workshop on Musical Metacreation	Atlanta, USA
+IEEE-ICMSC 2017	IEEE--2017 International Conference on Mechanical, System and Control Engineering (ICMSC 2017)-Ei, Scopus	St. Petersburg, Russia
+PACMA 2017	Physiological and Affective Computing: Methods and Applications	Trieste, Italy
+RuleML+RR 2017	RuleML+RR 2017 Doctoral Consortium	London
+WI 2017	IEEE/WIC/ACM International Conference on Web Intelligence 2017	Leipzig, Germany
+ICINCO 2017	International Conference on Informatics in Control, Automation and Robotics	Madrin, Spain
+AIAPP 2017	Fourth International Conference on Artificial Intelligence and Applications	Geneva, Switzerland
+JFPC 2017	Treizièmes Journées Francophones de Programmation par Contraintes	Montreuil sur Mer, France
+CoSIT 2017	Fourth International Conference on Computer Science and Information Technology	Geneva, Switzerland
+ICSN 2017	iCatse Conference on Software Networking	Kuala Lumpur, Malaysia
+EI--AIACT 2017	2017 International Conference on Artificial Intelligence, Automation and Control Technologies--Ei & SCOPUS	Wuhan,China
+IE 2017	13th International Conference on Intelligent Environments (IE’17)	Seoul, Korea
+UAI 2017	Uncertainty in Artificial Intelligence	Sydney, Australia
+ICCMIT 2017	International Conference on Communication, Management and Information Technology (ICCMIT 2017)	Poland
+ICCMIT 2017	International Conference on Communication, Management and Information Technology (ICCMIT 2017)	Poland
+ICCMIT 2017	International Conference on Communication, Management and Information Technology (ICCMIT 2017)	University of Warsaw
+Smart-CT 2017	2nd International Conference on Smart Cities	Málaga
+IROS 2017	IEEE/RSJ International Conference on Intelligent Robots and Systems	Vancouver, Canada
+MAICS 2017	The 28th Modern Artificial Intelligence and Cognitive Science Conference	Fort Wayne, IN
+ICIST 2017	7th International Conference on Information Systems and Technologies	DUBAI
+IoTAAL 2017	3rd IEEE International Workshop on Internet of Things for Active and Assisted Living (IoTAAL)	Geneva, Switzerland
+AIED DC 2017	Call for Doctoral Consortium Papers at the AIED 2017	Wuhan, China
+CYBI 2017	Fourth International Conference on Cybernetics & Informatics	Geneva,Switzerland
+IoA 2017	The Second International Workshop on the Internet of Agents (IoA)	São Paulo, Brazil
+EXPLORE 2017	EXPLORE 2017 @ AAMAS 2017: The 4th Workshop on Exploring Beyond the Worst Case in Computational Social Choice	São Paulo, Brazil
+AMEC/TADA 2017	International Workshop on Agent-Mediated Electronic Commerce and Trading Agents Design and Analysis	Sao Paulo
+SDS 2017	Swiss Conference on Data Science	Bern, Switzerland
+IJCAI 2017	International Joint Conference on Artificial Intelligence	Melbourne, Australia
+KES IDT DSS 2017	KES IDT - Decision Support Systems - Special Session	Vilamoura, Algarve, Portugal
+ICBEA 2017	2017 International Conference on Biometrics Engineering and Application (ICBEA 2017)--Ei Compendex and Scopus	Hong Kong
+ICACNI 2017	5th International Conference on Advanced Computing, Networking, and Informatics (proceedings by Springer)	Goa, India
+AURO-DR 2017	Autonomous Robots special issue on Distributed Robots: From Fundamentals to Applications	N/A
+KES-IDT-17 / IS09 (IDT-CMS 2017) 2017	Invited Session on Intelligent Decision Technologies for Manned and Unmanned Combat and Mission Systems	Vilamoura, Algarve, Portugal
+KES-AMSTA-17 / IS04 (AMAT-CMS 2017) 2017	Invited Session on Agent and Multi-Agent Based Technologies in Current and Future Combat and Mission Systems	Vilamoura, Algarve, Portugal
+HAIS 2017	The 12th International Conference on Hybrid Artificial Intelligence Systems	Logroño (La Rioja) Spain
+KES IDT DSS 2017	extended deadline and scope of the KES IDT DSS 2017 : KES IDT - Decision Support Systems - Special Session	Vilamoura, Algarve, Portugal
+ISCIA 2017	International Symposium on Computational Intelligence & Applications	Melaka, Malaysia
+HAIS 2017	The 12th International Conference on Hybrid Artificial Intelligence Systems	La Rioja, Spain
+AgTAmI 2017	The International Workshop on Agent Technology for Ambient Intelligence	Bucharest, Romania
+CoRob 2017	2017 Workshop on Collaborative Robots	Autonomous University of Ciudad Juárez,
+ISMIS 2017	23rd International Symposium on Methodologies for Intelligent Systems	Warsaw, Poland
+GECCO 2017	Genetic and Evolutionary Computation Conference	Berlin, Germany
+AISB 2017	Swarm Intelligence & Evolutionary Computation	Bath, Uk
+WASMM 2017	Web and Social Media Mining- PAAMS Special Session	Porto, Portugal
+SCIA@PAAMS 2017	Workshop on Smart Cities and Intelligent Agents (SCIA)	Porto
+DCAI 2017	14th International Conference on Distributed Computing and Artificial Intelligence	Porto, Portugal
+HealTech 2017	HealTech: Healthcare Technology Trends	Nice, France
+ICCSAMA 2017 - CFP 2017	ICCSAMA 2017 - Call for Papers	Humboldt University of Berlin
+Computational Intelligence in RDF 2017	Call for Book Chapters: Computational Intelligence in RDF Data Management (being published by Springer-Verlag)	N/A
+Call for book chapters ASCMLIP 2017	Advances in Soft Computing and Machine Learning in Image Processing (Springer)	N/A
+SSCIG-CEC 2017	Special Session on Computational Intelligence and Games	San Sebastián, Spain
+CEC SS on Eng Appl 2017	CEC 2017 Special Session on Engineering Applications of Evolutionary Computation	Donostia – San Sebastián, Spain
+ICAIL 2017	16th International Conference on Artificial Intelligence and Law	London
+SS-MLID-IWANN 2017	Special Session on Machine Learning in Imbalanced Domains, IWANN2017, LNCS, Cadiz (Spain), June 2017	Cadiz (Spain)
+FSAG@FUZZ-IEEE 2017	Special Session on Fuzzy Set Approaches to Geosciences	Naples, Italy
+SS-MLRE-IWANN 2017	Special Session on Machine learning for renewable energy applications (IWANN'2017), Cadiz (Spain), June 2017	Cadiz (Spain)
+FiCloud 2017	Call for Workshops in The 5th International Conference on Future Internet of Things and Cloud	Prague, Czech Republic
+ParLearning 2017	The 6th International Workshop on Parallel and Distributed Computing for Large Scale Machine Learning and Big Data Analytics	Orlando, Florida, USA
+ICAISC 2017	International Conference on Artificial Intelligence and Soft Computing	Zakopane, Poland
+CCML 2017	The 16th China Conference on Machine Learning	Tianjin China
+LPAR 2017	International Conferences on Logic for Programming, Artificial Intelligence and Reasoning	Maun, Botswana
+EI-ICDES 2017	2017 Second International Conference on Design Engineering and Science (ICDES 2017)	Kortrijk, Belgium
+CORES 2017	10th International Conference on Computer Recognition Systems	Polanica Zdroj, Poland
+PICICT 2017	Second Palestinian International Conference on Information and Communication Technology (PICICT 2017)	Gaza ( Palestine )
+AIFU 2017	Third International Conference on Artificial Intelligence and Applications	Dubai , UAE
