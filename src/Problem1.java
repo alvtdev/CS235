@@ -73,8 +73,13 @@ public class Problem1 {
       for (String pattern : patternsToSkip) {
         line = line.replaceAll(pattern, "");
       }
-      //StringTokenizer itr = new StringTokenizer(line);
+      //split line into list array, delimiter = tab since
+      //original file is tab separated 
+      //listArray[0] = conference acronym
+      //listArray[1] = conference name
+      //listArray[2] = conference location 
       String[] listArray = line.split("\t+");
+      //skip header 
       if (listArray[2].equals("conference_location")) {
         return;
       } else {
@@ -91,6 +96,7 @@ public class Problem1 {
     public void reduce(Text key, Iterable<IntWritable> values,
                        Context context
                        ) throws IOException, InterruptedException {
+      //count occurrences
       int sum = 0;
       for (IntWritable val : values) {
         sum += val.get();

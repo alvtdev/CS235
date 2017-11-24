@@ -1,6 +1,8 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.DataInput;
+import java.io.DataOutput;
 import java.net.URI;
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -20,17 +22,59 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.Counter;
 import org.apache.hadoop.util.GenericOptionsParser;
 import org.apache.hadoop.util.StringUtils;
+import org.apache.commons.io.FileUtils;
+import org.apache.hadoop.io.WritableComparable;
+import org.apache.hadoop.io.WritableUtils;
 
-public class Problem3 {
+public class Problem4 {
 
+  //custom composite key class in order to store both location and conference
+  //count as a value (as opposed to trying to manipulate a 2D array
+  private static class CompKey implements 
+      WritableComparable<CompKey> {
+        String city;
+        String year;
+        public CompKey() {}
+        public CompKey(String city, String year) {
+          this.city = city;
+          this.year = year;
+        }
+
+        public void write(DataOutput out) throws IOException {
+          WritableUtils.writeString(out, city);
+          WritableUtils.writeString(out, year);
+        }
+
+        public void readFields(DataInput in) throws IOException {
+          this.city = WritableUtils.readString(in);
+          this.year = WritableUtils.readstring(in);
+        }
+
+        public int compareTo(CompKey ck) {
+          if (ck == null) { 
+            return 0;
+          }
+          int cnt = city.compareTo(ck.city);
+          return cnt == 0 ? year.compareTo(ck.year) : cnt;
+        }
+
+        @Override
+        public String toString() {
+          return city.toString() + ":" + year.toString();
+        }
+      }
+
+
+  //mapper clas
   public static class TokenizerMapper
-       extends Mapper<Object, Text, Text, Text>{
+       extends Mapper<Object, Text, CompKey, IntWritable>{
 
     static enum CountersEnum { INPUT_WORDS }
 
-    //private final static IntWritable one = new IntWritable(1);
-    private Text word = new Text();
-    private Text word1 = new Text();
+    //use to set value of each location occurrence
+    private final static IntWritable one = new IntWritable(1);
+    //private Text word = new Text();
+    //private Text word1 = new Text();
 
 
     private boolean caseSensitive;
@@ -75,40 +119,36 @@ public class Problem3 {
       for (String pattern : patternsToSkip) {
         line = line.replaceAll(pattern, "");
       }
-      //StringTokenizer itr = new StringTokenizer(line);
-      //split line into list array
-      //listArray[0] = conference acronym
-      //listArray[1] = conference name
-      //listArray[2] = conference location 
+      //split line based on tab since input file is tab-separated
+      //listArray[2] will be location
       String[] listArray = line.split("\t+");
-      String[] confArray = listArray[0].split(" ");
-      if (listArray[2].equals("conference_acronym")) {
+
+      //skip header
+      if (listArray[2].equals("conference_location")) {
         return;
-      } else {
-        word.set(confArray[0]);
-        word1.set(listArray[2]);
-        context.write(word, word1);
-      }
+      } 
+      //split conferences by space 
+      //confArray[0] will be conference acronym
+      //confArray[confArray.length-1] will be year
+      String[] confArray = listArray[0].split(" ");
+      CompKey word = new CompKey(listArray[2], confArray[0]);
+      context.write(word, one);
     }
   }
 
-  //modify reducer to take in two text objects as input and
-  //two text objects as output
   public static class IntSumReducer
-       extends Reducer<Text,Text,Text,Text> {
+       extends Reducer<CompKey, IntWritable, CompKey, IntWritable> {
 
-    private Text result = new Text();
-    //iterable is text instead of int
-    public void reduce(Text key, Iterable<Text> values,
+    private IntWritable result = new IntWritable();
+    public void reduce(CompKey key, Iterable<IntWritable> values,
                        Context context
                        ) throws IOException, InterruptedException {
-      //declare string res to store output 
-      String res = new String();
-      for (Text val : values) {
-        res = res.concat(val.toString());
-	      res = res.concat(" \n");
+      //String res = new String();
+      int sum = 0;
+      for (IntWritable val : values) {
+        sum += val.get();
       }
-      result.set(res);
+      result.set(sum);
       context.write(key, result);
     }
   }
@@ -121,13 +161,13 @@ public class Problem3 {
       System.err.println("Usage: wordcount <in> <out> [-skip skipPatternFile]");
       System.exit(2);
     }
-    Job job = Job.getInstance(conf, "word count");
-    job.setJarByClass(Problem3.class);
+    Job job = Job.getInstance(conf, "ConferencesPerCity");
+    job.setJarByClass(Problem4.class);
     job.setMapperClass(TokenizerMapper.class);
     job.setCombinerClass(IntSumReducer.class);
     job.setReducerClass(IntSumReducer.class);
-    job.setOutputKeyClass(Text.class);
-    job.setOutputValueClass(Text.class);
+    job.setOutputKeyClass(CompKey.class);
+    job.setOutputValueClass(IntWritable.class);
 
     List<String> otherArgs = new ArrayList<String>();
     for (int i=0; i < remainingArgs.length; ++i) {

@@ -75,11 +75,16 @@ public class Problem2 {
       for (String pattern : patternsToSkip) {
         line = line.replaceAll(pattern, "");
       }
-      //StringTokenizer itr = new StringTokenizer(line);
+      //split line into list array
+      //listArray[0] = conference acronym
+      //listArray[1] = conference name
+      //listArray[2] = conference location 
       String[] listArray = line.split("\t+");
+      //ignore header
       if (listArray[2].equals("conference_location")) {
         return;
       } else {
+        //(location, name)
         word.set(listArray[2]);
         word1.set(listArray[1]);
         context.write(word, word1);
